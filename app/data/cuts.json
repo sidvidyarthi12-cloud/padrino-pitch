@@ -1,0 +1,231 @@
+[
+  {
+    "id": "favors-skip",
+    "lineIds": [
+      "favors"
+    ],
+    "title": "Skip the favors",
+    "saveLow": null,
+    "saveHigh": null,
+    "wholeLine": true,
+    "regret": "low",
+    "lesson": 80,
+    "example": "Three couples and writers list favors as money guests forget.",
+    "basis": "Saves whatever you planned for favors."
+  },
+  {
+    "id": "decor-trim",
+    "lineIds": [
+      "lighting-decor"
+    ],
+    "title": "Trim decor, place cards and table numbers",
+    "saveLow": null,
+    "saveHigh": null,
+    "wholeLine": false,
+    "regret": "low",
+    "lesson": 66,
+    "example": "One couple said table numbers and name cards took a lot of time for little effect.",
+    "basis": null
+  },
+  {
+    "id": "vintage-car-skip",
+    "lineIds": [
+      "transportation"
+    ],
+    "title": "Skip the vintage car",
+    "saveLow": null,
+    "saveHigh": null,
+    "wholeLine": true,
+    "regret": "low",
+    "lesson": 80,
+    "example": "A vintage car shows up on the low-impact list from three couples and writers.",
+    "basis": "Saves whatever you planned for wedding-day transportation."
+  },
+  {
+    "id": "invitations-simple",
+    "lineIds": [
+      "invitations",
+      "postage"
+    ],
+    "title": "Go simpler on invitations",
+    "saveLow": null,
+    "saveHigh": null,
+    "wholeLine": false,
+    "regret": "low",
+    "lesson": 80,
+    "example": "Pricey invitations sit on the same low-impact list as favors.",
+    "basis": null
+  },
+  {
+    "id": "florist-reuse",
+    "lineIds": [
+      "florist"
+    ],
+    "title": "Scale flowers down, or reuse ceremony flowers as centerpieces",
+    "saveLow": null,
+    "saveHigh": null,
+    "wholeLine": false,
+    "regret": "low",
+    "lesson": 81,
+    "example": "Five write-ups say flowers cost far more than expected. Couples used silk flowers and wildflowers.",
+    "basis": null
+  },
+  {
+    "id": "cake-swap",
+    "lineIds": [
+      "cake"
+    ],
+    "title": "Swap the big cake for small desserts",
+    "saveLow": 60,
+    "saveHigh": 560,
+    "wholeLine": false,
+    "regret": "low",
+    "lesson": 82,
+    "example": "One couple did a $240 macaron tower.",
+    "basis": "The Knot cake range is $300 to $800. A $240 macaron tower (lesson 87) saves $60 to $560."
+  },
+  {
+    "id": "dress-share",
+    "lineIds": [
+      "wedding-dress"
+    ],
+    "title": "Borrow, buy second-hand or wear a family dress",
+    "saveLow": null,
+    "saveHigh": null,
+    "wholeLine": false,
+    "regret": "low",
+    "lesson": 83,
+    "example": "Couples found a $76 dress, a second-hand designer dress at 64% off, and a mother's dress.",
+    "basis": null
+  },
+  {
+    "id": "friend-officiant",
+    "lineIds": [
+      "officiant"
+    ],
+    "title": "Ask a friend or relative to marry you",
+    "saveLow": 200,
+    "saveHigh": 450,
+    "wholeLine": false,
+    "regret": "low",
+    "lesson": 91,
+    "example": "One couple had a relative as celebrant.",
+    "basis": "Zola's officiant range is $200 to $450."
+  },
+  {
+    "id": "extra-events-skip",
+    "lineIds": [
+      "rehearsal-dinner",
+      "extra-events",
+      "tornaboda",
+      "pre-wedding-parties"
+    ],
+    "title": "Skip the extra events",
+    "saveLow": null,
+    "saveHigh": null,
+    "wholeLine": true,
+    "regret": "medium",
+    "lesson": 94,
+    "example": "A planner's list of 50 ways to shrink a budget includes skipping extras.",
+    "basis": "Saves whatever you planned for those events."
+  },
+  {
+    "id": "public-venue",
+    "lineIds": [
+      "venue-rental"
+    ],
+    "title": "Move to a park, backyard or public venue",
+    "saveLow": null,
+    "saveHigh": null,
+    "wholeLine": false,
+    "regret": "medium",
+    "lesson": 92,
+    "example": "One state-owned venue had enough restrooms that the couple skipped renting a trailer.",
+    "basis": null
+  },
+  {
+    "id": "photo-short",
+    "lineIds": [
+      "photographer"
+    ],
+    "title": "Book a shorter photo session",
+    "saveLow": null,
+    "saveHigh": null,
+    "wholeLine": false,
+    "regret": "high",
+    "lesson": 75,
+    "example": "Cheap photography cost one couple twice: a 25% cancellation fee, then a pricier replacement.",
+    "basis": null
+  },
+  {
+    "id": "playlist-for-dj",
+    "lineIds": [
+      "dj"
+    ],
+    "title": "Use a playlist instead of a DJ",
+    "saveLow": null,
+    "saveHigh": null,
+    "wholeLine": true,
+    "regret": "high",
+    "lesson": 89,
+    "example": "One couple used a free playlist. Others named shortened music as a regret.",
+    "basis": "Saves whatever you planned for the DJ."
+  },
+  {
+    "id": "hair-makeup-skip",
+    "lineIds": [
+      "hair-makeup"
+    ],
+    "title": "Skip the hair and makeup artist",
+    "saveLow": null,
+    "saveHigh": null,
+    "wholeLine": false,
+    "regret": "high",
+    "lesson": 77,
+    "example": "Skipping an artist they loved was a named regret.",
+    "basis": null
+  },
+  {
+    "id": "cheaper-chairs",
+    "lineIds": [
+      "event-rentals"
+    ],
+    "title": "Rent cheaper chairs and seating",
+    "saveLow": null,
+    "saveHigh": null,
+    "wholeLine": false,
+    "regret": "high",
+    "lesson": 78,
+    "example": "Cheap metal chairs saved one couple about $2,000 and they regretted it.",
+    "basis": null
+  },
+  {
+    "id": "food-drink-trim",
+    "lineIds": [
+      "catering-food",
+      "bar-alcohol"
+    ],
+    "title": "Serve less food or drink",
+    "saveLow": null,
+    "saveHigh": null,
+    "wholeLine": false,
+    "regret": "high",
+    "lesson": 78,
+    "example": "One writer says food is not where to economize. Guests feel it all night.",
+    "basis": null
+  },
+  {
+    "id": "honeymoon-shrink",
+    "lineIds": [
+      "honeymoon"
+    ],
+    "title": "Shrink the honeymoon",
+    "saveLow": null,
+    "saveHigh": null,
+    "wholeLine": false,
+    "regret": "high",
+    "lesson": 28,
+    "example": "One couple traded cheaper chairs for a better honeymoon hotel.",
+    "basis": null
+  }
+]

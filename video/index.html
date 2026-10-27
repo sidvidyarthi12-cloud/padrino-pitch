@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Padrino pitch video</title>
+<meta name="description" content="The 3:00 Padrino pitch video. No sound, narrated live.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 108 108'%3E%3Crect x='8' y='8' width='100' height='100' rx='20' fill='%23E39A2E'/%3E%3Crect width='100' height='100' rx='20' fill='%231C1612'/%3E%3Cpath fill='%23EFE3CB' fill-rule='evenodd' d='M30,24 H50 A17,17 0 0 1 50,58 H42 V78 H30 Z M42,36 H52 A5.5,5.5 0 0 1 52,47 H42 Z'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap">
+<style>
+  :root {
+    --page: #EFE3CB;
+    --plate: #FFF9EC;
+    --ink: #1C1612;
+    --blue: #2B5BE3;
+    --font: "Plus Jakarta Sans", "Helvetica Neue", Arial, sans-serif;
+    color-scheme: light;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    background: var(--page);
+    color: var(--ink);
+    font-family: var(--font);
+    font-weight: 500;
+    line-height: 1.4;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+  }
+  a { color: inherit; }
+  a:focus-visible { outline: 3px solid var(--blue); outline-offset: 3px; }
+
+  .picado { display: block; width: 100%; height: 44px; }
+
+  .wrap { max-width: 1400px; margin: 0 auto; padding: 0 16px; }
+
+  /* Top row: home link on the left */
+  .top { display: flex; align-items: center; justify-content: space-between; padding: 18px 0 0; }
+  .home { display: inline-flex; align-items: center; gap: 10px; text-decoration: none; font-size: 22px; font-weight: 800; letter-spacing: -0.02em; line-height: 1; }
+  .home .mark { width: 30px; height: 30px; flex: none; }
+  .home:hover .word { text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 3px; }
+
+  h1 { margin: 26px 0 0; text-align: center; font-size: clamp(28px, 6vw, 44px); font-weight: 800; letter-spacing: -0.03em; line-height: 1.05; }
+  .sub { margin: 10px 0 0; text-align: center; font-size: 17px; font-weight: 600; }
+  .sub span { display: inline-block; }
+
+  /* The player: 16:9, as wide as the screen allows, never taller than the window. */
+  .frame {
+    margin: 22px auto 0;
+    width: 100%;
+    width: min(100%, calc((100vh - 250px) * 16 / 9));
+    width: min(100%, calc((100svh - 250px) * 16 / 9));
+    min-width: min(100%, 320px);
+    aspect-ratio: 16 / 9;
+    background: var(--plate);
+    border: 2px solid var(--ink);
+    border-radius: 8px;
+    box-shadow: 4px 4px 0 var(--ink);
+    overflow: hidden;
+  }
+  .frame video { display: block; width: 100%; height: 100%; background: var(--page); object-fit: contain; }
+
+  .back { text-align: center; margin: 30px 0 0; font-size: 16px; font-weight: 600; }
+  .back a { text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 3px; }
+  .back a:hover { color: var(--blue); }
+  footer { text-align: center; margin: 40px 0 32px; font-size: 15px; font-weight: 600; }
+  footer p { margin: 0; }
+</style>
+</head>
+<body>
+
+<svg class="picado" height="44" aria-hidden="true" focusable="false">
+  <defs>
+    <pattern id="picado" width="360" height="44" patternUnits="userSpaceOnUse">
+      <g stroke="#1C1612" stroke-width="2" stroke-linejoin="round">
+        <path fill="#1F9D6B" d="M11,12 h38 v24 l-4.75,6 l-4.75,-6 l-4.75,6 l-4.75,-6 l-4.75,6 l-4.75,-6 l-4.75,6 l-4.75,-6 z"/>
+        <path fill="#2F7FE0" d="M71,12 h38 v24 l-4.75,6 l-4.75,-6 l-4.75,6 l-4.75,-6 l-4.75,6 l-4.75,-6 l-4.75,6 l-4.75,-6 z"/>
+        <path fill="#E39A2E" d="M131,12 h38 v24 l-4.75,6 l-4.75,-6 l-4.75,6 l-4.75,-6 l-4.75,6 l-4.75,-6 l-4.75,6 l-4.75,-6 z"/>
+        <path fill="#E25D7B" d="M191,12 h38 v24 l-4.75,6 l-4.75,-6 l-4.75,6 l-4.75,-6 l-4.75,6 l-4.75,-6 l-4.75,6 l-4.75,-6 z"/>
+        <path fill="#7A4FD6" d="M251,12 h38 v24 l-4.75,6 l-4.75,-6 l-4.75,6 l-4.75,-6 l-4.75,6 l-4.75,-6 l-4.75,6 l-4.75,-6 z"/>
+        <path fill="#169AA3" d="M311,12 h38 v24 l-4.75,6 l-4.75,-6 l-4.75,6 l-4.75,-6 l-4.75,6 l-4.75,-6 l-4.75,6 l-4.75,-6 z"/>
+      </g>
+      <g fill="#EFE3CB" stroke="#1C1612" stroke-width="1.5">
+        <circle cx="30" cy="25" r="3.2"/>
+        <circle cx="90" cy="25" r="3.2"/>
+        <circle cx="150" cy="25" r="3.2"/>
+        <circle cx="210" cy="25" r="3.2"/>
+        <circle cx="270" cy="25" r="3.2"/>
+        <circle cx="330" cy="25" r="3.2"/>
+      </g>
+    </pattern>
+  </defs>
+  <line x1="0" y1="12" x2="100%" y2="12" stroke="#1C1612" stroke-width="3"/>
+  <rect width="100%" height="44" fill="url(#picado)"/>
+</svg>
+
+<main class="wrap">
+
+  <div class="top">
+    <a class="home" href="../">
+      <svg class="mark" viewBox="0 0 108 108" aria-hidden="true" focusable="false">
+        <rect x="8" y="8" width="100" height="100" rx="20" fill="#E39A2E"/>
+        <rect x="0" y="0" width="100" height="100" rx="20" fill="#1C1612"/>
+        <path fill="#EFE3CB" fill-rule="evenodd" d="M30,24 H50 A17,17 0 0 1 50,58 H42 V78 H30 Z M42,36 H52 A5.5,5.5 0 0 1 52,47 H42 Z"/>
+      </svg>
+      <span class="word">Padrino</span>
+    </a>
+  </div>
+
+  <h1>Padrino pitch video</h1>
+  <p class="sub"><span>3:00. No sound.</span> <span>It is meant to be narrated live.</span></p>
+
+  <div class="frame">
+    <video controls playsinline preload="metadata" poster="poster.jpg" src="../padrino-pitch-video.mp4" aria-label="Padrino pitch video, 3 minutes, no sound"></video>
+  </div>
+
+  <p class="back"><a href="../">Back to Padrino</a></p>
+
+  <footer>
+    <p>Built by Sid for the 1881 International Hackathon, October 2026.</p>
+  </footer>
+
+</main>
+
+</body>
+</html>

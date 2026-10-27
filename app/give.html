@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#EFE3CB" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#141827" media="(prefers-color-scheme: dark)">
+  <title>A little help | Padrino</title>
+  <meta name="description" content="Help a couple with one piece of their wedding.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23FBF8F3'/%3E%3Ctext x='16' y='23' text-anchor='middle' font-family='Georgia,serif' font-size='22' font-weight='600' fill='%23B5471F'%3EP%3C/text%3E%3C/svg%3E">
+  <style>
+    /* Scoped to this page. The app's styles.css gives the variables, type and buttons. */
+    body { background: var(--bg); }
+    .give-page { max-width: 520px; margin: 0 auto; padding: 18px 16px 60px; }
+    .give-top { display: flex; align-items: center; justify-content: space-between; padding: 6px 0 18px; }
+    .give-top .wordmark { font-family: var(--font-display); font-size: 1.2rem; font-weight: 800; color: var(--text); text-decoration: none; }
+    .give-head { text-align: center; padding: 10px 0 22px; }
+    .give-head .eyebrow { margin-bottom: 8px; }
+    .give-head h1 { font-family: var(--font-display); font-size: clamp(2rem, 9vw, 2.7rem); font-weight: 800; letter-spacing: -0.02em; line-height: 1.05; }
+    .give-head { --sec: var(--rose); }
+    .give-head .when { color: var(--muted); margin-top: 10px; }
+    .give-note { font-family: var(--font-display); font-size: 1.2rem; font-weight: 600; line-height: 1.35; text-align: center; color: var(--text); margin: 0 auto 18px; max-width: 32ch; }
+    .give-item { text-align: center; padding: 26px 20px 22px; }
+    .give-item .art { width: 92px; height: 92px; border-radius: 10px; --sec: var(--rose); --sec-ink: var(--rose-ink); display: grid; place-items: center; margin: 0 auto 14px; box-shadow: 4px 4px 0 var(--shadow-ink); }
+    .give-item .art .ic { width: 44px; height: 44px; stroke-width: 1.5; }
+    .give-item .what { font-family: var(--font-display); font-size: 1.45rem; font-weight: 800; }
+    .give-item .amt { font-family: var(--font-display); font-size: 2.6rem; font-weight: 800; letter-spacing: -0.02em; font-variant-numeric: tabular-nums; margin-top: 6px; line-height: 1; }
+    .give-item .sub { color: var(--muted); font-size: 0.9rem; margin-top: 8px; }
+    .give-list { padding: 6px 18px; }
+    .give-row { display: grid; grid-template-columns: 40px minmax(0, 1fr) auto; gap: 12px; align-items: center; padding: 13px 0; border-top: 1px solid var(--line); cursor: pointer; }
+    .give-row:first-child { border-top: 0; }
+    .give-row .art { width: 40px; height: 40px; display: grid; place-items: center; }
+    .give-row .art .ic { width: 20px; height: 20px; }
+    .give-row .what { font-weight: 600; }
+    .give-row .sub { font-size: 0.8rem; color: var(--muted); margin-top: 1px; }
+    .give-row .amt { font-variant-numeric: tabular-nums; font-weight: 600; white-space: nowrap; }
+    .give-row[aria-pressed="true"] .art { background: var(--accent); color: var(--accent-ink); }
+    .give-row[aria-pressed="true"] .what { color: var(--accent); }
+    .pay-row { display: grid; grid-template-columns: 40px minmax(0, 1fr) auto; gap: 12px; align-items: center; padding: 13px 0; border-top: 1px solid var(--line); }
+    .pay-row:first-of-type { border-top: 0; }
+    .pay-row .logo { width: 40px; height: 40px; border-radius: 6px; display: grid; place-items: center; font-weight: 800; font-size: 0.95rem; color: #fff; border: 2px solid var(--ink); box-shadow: 2px 2px 0 var(--shadow-ink); }
+    .pay-row .logo.zelle { background: #6D1ED4; }
+    .pay-row .logo.venmo { background: #008CFF; }
+    .pay-row .logo.cashapp { background: #00D54B; }
+    .pay-row .name { font-weight: 600; }
+    .pay-row .handle { font-size: 0.9rem; color: var(--muted); overflow-wrap: anywhere; font-variant-numeric: tabular-nums; }
+    .pay-row .acts { display: flex; gap: 6px; flex-wrap: wrap; justify-content: flex-end; }
+    .give-foot { text-align: center; color: var(--muted); font-size: 0.86rem; margin-top: 22px; line-height: 1.5; }
+    .give-foot .ic { width: 14px; height: 14px; vertical-align: -2px; margin-right: 4px; color: var(--good); }
+    .give-empty { text-align: center; padding: 60px 20px; color: var(--muted); }
+    .give-empty h2 { font-family: var(--font-display); font-size: 1.5rem; font-weight: 800; color: var(--text); margin-bottom: 8px; }
+    @media (max-width: 420px) {
+      .pay-row { grid-template-columns: 40px minmax(0, 1fr); }
+      .pay-row .acts { grid-column: 2; justify-content: flex-start; }
+    }
+  </style>
+  <script src="demo-api.js"></script>
+</head>
+<body>
+  <div class="demo-banner" role="note">Online demo. AI answers were saved from the real app.</div>
+  <div class="serape-rule" aria-hidden="true"></div>
+  <div class="give-page" id="give"></div>
+  <div id="toast-root"></div>
+  <script type="module" src="js/give.js"></script>
+</body>
+</html>

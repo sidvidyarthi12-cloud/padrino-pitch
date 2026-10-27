@@ -1,0 +1,1300 @@
+[
+  {
+    "id": "mexican",
+    "name": "Mexican or Mexican-American",
+    "blurb": "Family, faith and music. Many couples include padrinos (sponsors), the lazo and the arras. Every family does it a little differently, so keep what fits yours.",
+    "photo": "https://images.unsplash.com/photo-1766104797172-5eed40ac6f23?w=800&h=600&q=70&auto=format&fit=crop",
+    "photoCredit": {
+      "name": "Samuel Cruz",
+      "link": "https://unsplash.com/photos/woman-holding-decorative-rope-at-outdoor-celebration-OddVo0HZ38Y"
+    },
+    "lines": [
+      {
+        "id": "lazo",
+        "category": "Cultural (Mexican and Mexican-American)",
+        "item": "Lazo (wedding cord)",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "A cord of flowers or a large rosary placed around the couple after the vows. Padrinos often give it as a gift, so ask before you buy one.",
+        "source": "https://www.weddingwire.com/wedding-ideas/mexican-wedding-traditions"
+      },
+      {
+        "id": "arras",
+        "category": "Cultural (Mexican and Mexican-American)",
+        "item": "Arras (13 coins) and the box or tray",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "13 gold coins the groom gives the bride. For Catholic couples they sit in a decorated box or tray the priest blesses. The box is usually a padrino gift. Ask your padrinos first.",
+        "source": "https://www.weddingwire.com/wedding-ideas/mexican-wedding-traditions"
+      },
+      {
+        "id": "kneeling-pillows",
+        "category": "Cultural (Mexican and Mexican-American)",
+        "item": "Kneeling pillows",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "White pillows decorated with lace, for kneeling during Mass. Padrinos usually give them, and the couple keeps them. Ask before you buy.",
+        "source": "https://shineweddinginvitations.com/blog/a-guide-to-mexican-wedding-traditions"
+      },
+      {
+        "id": "wedding-bible",
+        "category": "Cultural (Mexican and Mexican-American)",
+        "item": "Wedding Bible",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "Padrinos may pay for a Bible, along with the lazo and kneeling pillows. Ask which gifts each one is giving so nothing is bought twice.",
+        "source": "https://shineweddinginvitations.com/blog/a-guide-to-mexican-wedding-traditions"
+      },
+      {
+        "id": "mx-sweets",
+        "category": "Cultural (Mexican and Mexican-American)",
+        "item": "Traditional sweets (flan, tres leches, churros)",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "A traditional cake can be served with other sweets such as flan, tres leches cake and churros. Skip this line if your cake is enough.",
+        "source": "https://shineweddinginvitations.com/blog/a-guide-to-mexican-wedding-traditions"
+      },
+      {
+        "id": "tornaboda",
+        "category": "Cultural (Mexican and Mexican-American)",
+        "item": "Tornaboda (smaller after-party)",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "A smaller gathering of close family and friends after the main reception. Decide who is invited and who pays.",
+        "source": "https://www.weddingwire.com/wedding-ideas/mexican-wedding-traditions"
+      }
+    ],
+    "milestones": [
+      {
+        "id": "padrinos-roles",
+        "section": "foundation",
+        "title": "Choose your padrinos and what each one covers",
+        "short": "Padrinos help with the ceremony and may pay for parts of it.",
+        "steps": [
+          {
+            "kind": "info",
+            "title": "Pick people you trust",
+            "body": "Padrinos and madrinas are chosen for their bond with you. One guide says there are no fixed roles and you can choose as many as you like."
+          },
+          {
+            "kind": "info",
+            "title": "Ask what each would like to give",
+            "body": "Padrinos may cover the lazo, arras, kneeling pillows or a Bible. Some couples also name padrinos for flowers, cake, rings, music, photos or the dress. Ask before you buy any of these yourself."
+          },
+          {
+            "kind": "info",
+            "title": "Write down who covers what",
+            "body": "Add each promise to Who is helping in Padrino. That way nothing gets bought twice and nobody is left guessing."
+          }
+        ]
+      },
+      {
+        "id": "ceremony-items",
+        "section": "team",
+        "title": "Plan the lazo, arras and other ceremony items",
+        "short": "Know who is bringing what before the rehearsal.",
+        "steps": [
+          {
+            "kind": "info",
+            "title": "Lazo",
+            "body": "Ask if your padrinos are giving it. If not, get one made of flowers or a rosary. It goes around your shoulders after the vows."
+          },
+          {
+            "kind": "info",
+            "title": "Arras",
+            "body": "Decide who is buying the 13 coins and the box or tray. For a Catholic wedding the priest blesses them."
+          },
+          {
+            "kind": "info",
+            "title": "Ask your priest how it works",
+            "body": "If you marry in a church, ask how the lazo, the arras and the Mass fit together. The priest removes the lazo at the end."
+          }
+        ]
+      },
+      {
+        "id": "music-and-tornaboda",
+        "section": "team",
+        "title": "Plan the mariachi and the tornaboda",
+        "short": "Music at the ceremony, the reception and after.",
+        "steps": [
+          {
+            "kind": "info",
+            "title": "Mariachi",
+            "body": "Bands may play hymns or special music in the ceremony and festive music at the reception. Ask what each part costs and how long they play."
+          },
+          {
+            "kind": "info",
+            "title": "Tornaboda",
+            "body": "This is a smaller party for close family and friends after the main reception. Decide the guest list and who pays before you send invitations."
+          }
+        ]
+      }
+    ],
+    "vendorCategories": [
+      "mariachi",
+      "catering",
+      "bakeries and cakes",
+      "florists",
+      "DJ and music"
+    ]
+  },
+  {
+    "id": "indian",
+    "name": "Indian (Hindu)",
+    "blurb": "Indian weddings vary a lot by region, religion and family. Many Hindu weddings have several events over a few days, like mehndi, sangeet and the ceremony. Pick only the events your families really hold.",
+    "photo": "https://images.unsplash.com/photo-1587271636175-90d58cdad458?w=800&h=600&q=70&auto=format&fit=crop",
+    "photoCredit": {
+      "name": "Amish Thakkar",
+      "link": "https://unsplash.com/photos/wedding-ceremony-under-floral-canopy-7O422yG_b80"
+    },
+    "lines": [
+      {
+        "id": "mehndi-artist",
+        "category": "Cultural (Indian)",
+        "item": "Mehndi (henna) artist",
+        "typicalLow": 350,
+        "typicalHigh": 800,
+        "note": "ThePricer quotes bridal packages around $350 to $800 at some US providers, and event artists at about $85 to $175 an hour. Ask how many guests get henna.",
+        "source": "https://www.thepricer.org/how-much-does-an-indian-wedding-cost/"
+      },
+      {
+        "id": "mandap",
+        "category": "Cultural (Indian)",
+        "item": "Mandap (ceremony canopy) and decor",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "The four-pillared canopy for the ceremony, with the sacred fire and the priest. ThePricer quotes one decor company at $3,999 and up for a basic mandap with ten centerpieces, and $5,500 and up for a custom one. That is one company, not an average.",
+        "source": "https://www.thepricer.org/how-much-does-an-indian-wedding-cost/"
+      },
+      {
+        "id": "pandit",
+        "category": "Cultural (Indian)",
+        "item": "Priest (pandit) for the ceremony",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "The pandit leads the ceremony at the sacred fire. No price found. Ask for the fee and what the ceremony needs.",
+        "source": "https://paperlust.co/blog/?p=14667"
+      },
+      {
+        "id": "baraat",
+        "category": "Cultural (Indian)",
+        "item": "Baraat (groom's procession): dhol player, horse or car",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "The groom's procession to the venue, often with a dhol drummer and family dancing. Some families use a white horse. ThePricer gives no price for it.",
+        "source": "https://paperlust.co/blog/?p=14667"
+      },
+      {
+        "id": "sangeet",
+        "category": "Cultural (Indian)",
+        "item": "Sangeet (music and dance night)",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "Both families gather for performances and dancing. In Punjabi families it is often the biggest event of the week. In some South Indian weddings it is folded into smaller gatherings.",
+        "source": "https://paperlust.co/blog/?p=14667"
+      },
+      {
+        "id": "haldi",
+        "category": "Cultural (Indian)",
+        "item": "Haldi (turmeric ceremony)",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "A turmeric paste is applied to the bride and groom, usually at family homes. A private haldi often needs no printed invitation.",
+        "source": "https://paperlust.co/blog/?p=14667"
+      },
+      {
+        "id": "indian-extra-events-food",
+        "category": "Cultural (Indian)",
+        "item": "Food for the extra events (mehndi, sangeet, haldi)",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "Each event adds its own meal. ThePricer's example plan uses $25 a guest for mehndi snacks and $75 to $80 for sangeet. Those are example numbers, not averages.",
+        "source": "https://www.thepricer.org/how-much-does-an-indian-wedding-cost/"
+      },
+      {
+        "id": "mangalsutra-jewelry",
+        "category": "Cultural (Indian)",
+        "item": "Mangalsutra and wedding jewelry",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "A sacred necklace is tied around the bride's neck, and sindoor is applied in her hair parting.",
+        "source": "https://paperlust.co/blog/?p=14667"
+      },
+      {
+        "id": "multi-day-photo",
+        "category": "Cultural (Indian)",
+        "item": "Extra photo and video for the other events",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "ThePricer lists one photo company at $3,500 for one event and $10,500 for photo and video over several days. That is one company. Ask each photographer to price every event.",
+        "source": "https://www.thepricer.org/how-much-does-an-indian-wedding-cost/"
+      }
+    ],
+    "milestones": [
+      {
+        "id": "choose-events",
+        "section": "foundation",
+        "title": "Decide which events your families want",
+        "short": "There is no single Indian wedding. Pick yours.",
+        "steps": [
+          {
+            "kind": "info",
+            "title": "Customs vary",
+            "body": "They change by region, religion and language. One guide says South Indian weddings are often shorter, about 2 to 3 days."
+          },
+          {
+            "kind": "info",
+            "title": "List the events",
+            "body": "Common ones are mehndi, haldi, sangeet, baraat, the ceremony and the reception. Ask both families which ones they expect."
+          },
+          {
+            "kind": "info",
+            "title": "Count the cost of each",
+            "body": "Each event adds food, a place and music. Add only the events you will really hold, so the budget stays honest."
+          }
+        ]
+      },
+      {
+        "id": "book-pandit-mandap",
+        "section": "team",
+        "title": "Book the pandit and plan the mandap",
+        "short": "The ceremony needs a priest, a mandap and a sacred fire.",
+        "steps": [
+          {
+            "kind": "info",
+            "title": "Ask your family for a priest",
+            "body": "Ask which priest they use. In some South Indian weddings the family priest works out a lucky time for the mangalsutra tying."
+          },
+          {
+            "kind": "info",
+            "title": "Ask what the ceremony needs",
+            "body": "A mandap, a sacred fire and a priest are the core pieces. Ask your venue if a fire is allowed where you plan to hold it."
+          },
+          {
+            "kind": "info",
+            "title": "Get the mandap quote in writing",
+            "body": "Include setup, florals and takedown in the price."
+          }
+        ]
+      },
+      {
+        "id": "book-henna-dhol",
+        "section": "team",
+        "title": "Book the mehndi artist and the dhol player",
+        "short": "Two small bookings that fill up around wedding season.",
+        "steps": [
+          {
+            "kind": "info",
+            "title": "Mehndi artist",
+            "body": "Ask how many guests will get henna and for how long. Event artists are often priced by the hour."
+          },
+          {
+            "kind": "info",
+            "title": "Dhol player for the baraat",
+            "body": "Ask your venue if a procession and drums are allowed outside. Then ask the dhol player what is included."
+          }
+        ]
+      }
+    ],
+    "vendorCategories": [
+      "DJ and music",
+      "catering",
+      "florists",
+      "rentals",
+      "hair and makeup",
+      "photography",
+      "videography",
+      "henna artist",
+      "dhol player"
+    ]
+  },
+  {
+    "id": "christian",
+    "name": "Christian (Protestant)",
+    "blurb": "Church weddings vary a lot by church. Some only marry members, some charge for the building and the pastor, and many ask for a few counseling sessions first. Ask your church for its wedding guide.",
+    "photo": "https://images.unsplash.com/photo-1665493527055-309554031575?w=800&h=600&q=70&auto=format&fit=crop",
+    "photoCredit": {
+      "name": "Wedding Dreamz",
+      "link": "https://unsplash.com/photos/a-bride-and-groom-in-a-church-coWejNeBFhE"
+    },
+    "lines": [
+      {
+        "id": "pastor-honorarium",
+        "category": "Faith (Christian)",
+        "item": "Pastor honorarium",
+        "typicalLow": 200,
+        "typicalHigh": 400,
+        "note": "Northcross church asks $300, paid at the first meeting, covering the ceremony, rehearsal and counseling. Church by the Park lists $200 for members and $400 for non-members. Two churches, not a survey.",
+        "source": "https://www.churchbythepark.org/weddings"
+      },
+      {
+        "id": "church-building-fee",
+        "category": "Faith (Christian)",
+        "item": "Church or sanctuary fee",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "Church by the Park charges members nothing and non-members $400 for the rehearsal and ceremony, plus a $100 damage deposit. Northcross mentions no building fee. Ask your church.",
+        "source": "https://www.churchbythepark.org/weddings"
+      },
+      {
+        "id": "church-musician",
+        "category": "Faith (Christian)",
+        "item": "Organist or church musician",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "Church by the Park lists $150 for members and $250 for non-members. One church, so ask yours.",
+        "source": "https://www.churchbythepark.org/weddings"
+      },
+      {
+        "id": "church-custodian",
+        "category": "Faith (Christian)",
+        "item": "Church custodian (sexton)",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "Church by the Park lists $100 for members and $150 for non-members for the church, and $75 to $175 more for the hall. One church, so ask yours.",
+        "source": "https://www.churchbythepark.org/weddings"
+      },
+      {
+        "id": "premarital-counseling",
+        "category": "Faith (Christian)",
+        "item": "Premarital counseling or course",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "Many churches ask for it. Church by the Park requires at least three sessions. Northcross asks members to take a premarital course and says its Prepare/Enrich tool has an added cost it does not state.",
+        "source": "https://northcross.thechurchco.com/guidelines-for-marriage/"
+      },
+      {
+        "id": "church-hall-reception",
+        "category": "Faith (Christian)",
+        "item": "Church hall and kitchen for a small reception",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "Church by the Park lists a donation for members and $200 for non-members for the hall and kitchen. If the church has a hall, this can be your venue.",
+        "source": "https://www.churchbythepark.org/weddings"
+      }
+    ],
+    "milestones": [
+      {
+        "id": "meet-pastor",
+        "section": "big-three",
+        "title": "Meet your pastor and ask about the church's rules",
+        "short": "The church sets the date, the fees and the steps.",
+        "steps": [
+          {
+            "kind": "info",
+            "title": "Call early",
+            "body": "Northcross asks for at least six months between first contact and the wedding, and says the pastor you want may be full. Start as early as you can."
+          },
+          {
+            "kind": "info",
+            "title": "Ask these questions",
+            "body": "Do you have to be a member? What are the pastor, building and music fees? Is there a damage deposit? When is each payment due?"
+          },
+          {
+            "kind": "info",
+            "title": "Check the legal part",
+            "body": "Texas law lets a licensed or ordained Christian minister or priest perform the ceremony. Ask your pastor to confirm they qualify."
+          }
+        ]
+      },
+      {
+        "id": "premarital-sessions",
+        "section": "team",
+        "title": "Book your premarital counseling",
+        "short": "Many churches want this done before the ceremony is planned.",
+        "steps": [
+          {
+            "kind": "info",
+            "title": "Ask how many sessions",
+            "body": "One church requires at least three. Another says the number depends on your background and readiness."
+          },
+          {
+            "kind": "info",
+            "title": "Fill out the questionnaire early",
+            "body": "Northcross asks you to complete a pre-marriage questionnaire."
+          },
+          {
+            "kind": "info",
+            "title": "Plan the ceremony after",
+            "body": "Northcross says to plan the ceremony only after counseling is done."
+          }
+        ]
+      }
+    ],
+    "vendorCategories": [
+      "officiants",
+      "florists",
+      "DJ and music",
+      "photography",
+      "catering"
+    ]
+  },
+  {
+    "id": "catholic",
+    "name": "Catholic",
+    "blurb": "A Catholic wedding starts with your parish. The priest or deacon walks you through the steps, and they can differ from parish to parish.",
+    "photo": "https://images.unsplash.com/photo-1474867985807-96ca17098cc9?w=800&h=600&q=70&auto=format&fit=crop",
+    "photoCredit": {
+      "name": "Josh Applegate",
+      "link": "https://unsplash.com/photos/groom-and-bride-kneeling-in-front-of-priest-raising-the-holy-sacrament-nKJzYDP10Zw"
+    },
+    "lines": [
+      {
+        "id": "foccus-inventory",
+        "category": "Faith (Catholic)",
+        "item": "FOCCUS inventory (Diocese of El Paso)",
+        "typicalLow": 35,
+        "typicalHigh": 35,
+        "note": "A communication tool reviewed with your priest, deacon or a facilitator. The diocese charges a $35 processing fee. Other dioceses may use a different tool.",
+        "source": "https://www.elpasodiocese.org/foccus-registration.html"
+      },
+      {
+        "id": "engaged-encounter",
+        "category": "Faith (Catholic)",
+        "item": "Engaged Encounter retreat or sponsor couple sessions",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "The El Paso diocese asks you to complete one or the other before it issues the marriage license voucher. No price on its pages. Ask the Marriage and Family Life Office.",
+        "source": "https://www.elpasodiocese.org/marriage-license-voucher.html"
+      },
+      {
+        "id": "nfp-class",
+        "category": "Faith (Catholic)",
+        "item": "Natural Family Planning class",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "The El Paso diocese page links NFP classes but gives no details or price. Ask your parish if it is required.",
+        "source": "https://www.elpasodiocese.org/marriage-preparation.html"
+      },
+      {
+        "id": "parish-fee",
+        "category": "Faith (Catholic)",
+        "item": "Parish or church fee",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "No fee schedule on the diocese pages. One guide says the priest explains church and music fees. Ask early so it is not a surprise.",
+        "source": "https://withjoy.com/blog/how-to-plan-a-catholic-church-wedding-a-step-by-step-guide-for-engaged-couples/"
+      },
+      {
+        "id": "catholic-music",
+        "category": "Faith (Catholic)",
+        "item": "Music director, cantor or organist",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "Music at a Catholic wedding must be sacred, so secular love songs do not fit. The parish music director can help you pick pieces. Ask what the parish charges.",
+        "source": "https://withjoy.com/blog/how-to-plan-a-catholic-church-wedding-a-step-by-step-guide-for-engaged-couples/"
+      },
+      {
+        "id": "baptism-records",
+        "category": "Faith (Catholic)",
+        "item": "Baptism certificate and other records",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "Catholic partners need a recent copy with the church seal from the church where they were baptized. A photocopy will not work. Ask that church what it charges.",
+        "source": "https://withjoy.com/blog/how-to-plan-a-catholic-church-wedding-a-step-by-step-guide-for-engaged-couples/"
+      }
+    ],
+    "milestones": [
+      {
+        "id": "meet-priest",
+        "section": "big-three",
+        "title": "Meet your priest or deacon",
+        "short": "Everything else follows from this first meeting.",
+        "steps": [
+          {
+            "kind": "info",
+            "title": "Start about six months out",
+            "body": "The Diocese of El Paso says to begin six months before your date. One guide says up to a year ahead. Earlier gives you more date choices."
+          },
+          {
+            "kind": "info",
+            "title": "Ask who runs marriage preparation",
+            "body": "Ask for the marriage preparation coordinator. At the first meeting the parish tells you which steps it needs."
+          },
+          {
+            "kind": "info",
+            "title": "Do this before you book the reception",
+            "body": "One guide says to meet the priest after you get engaged and before you book the reception venue."
+          }
+        ]
+      },
+      {
+        "id": "marriage-prep",
+        "section": "team",
+        "title": "Finish marriage preparation",
+        "short": "A short interview, an inventory and one program.",
+        "steps": [
+          {
+            "kind": "info",
+            "title": "Premarital interview",
+            "body": "Your priest or deacon holds a pre-marital inventory interview with you."
+          },
+          {
+            "kind": "info",
+            "title": "FOCCUS inventory",
+            "body": "Each of you takes it online, then you review it with your priest, deacon or facilitator. The diocese charges $35."
+          },
+          {
+            "kind": "info",
+            "title": "Engaged Encounter or sponsor couple",
+            "body": "Pick one. Turn in your completion certificate to the Marriage and Family Life Office."
+          },
+          {
+            "kind": "info",
+            "title": "Ask about the license fee waiver",
+            "body": "The diocese says completing preparation can get you a waiver of the county marriage license fee. Ask how it works."
+          }
+        ]
+      },
+      {
+        "id": "catholic-papers",
+        "section": "paper",
+        "title": "Collect your Catholic papers",
+        "short": "Some records take weeks to arrive.",
+        "steps": [
+          {
+            "kind": "info",
+            "title": "Baptism certificate",
+            "body": "Ask the church where you were baptized for a new copy with the seal. One guide says it must be issued within six months of the wedding."
+          },
+          {
+            "kind": "info",
+            "title": "Other records the parish may ask for",
+            "body": "One guide lists First Communion and Confirmation records, and a signed statement that you are free to marry. Your parish will tell you what it needs."
+          }
+        ]
+      }
+    ],
+    "vendorCategories": [
+      "venues",
+      "catering",
+      "photography",
+      "florists",
+      "DJ and music"
+    ]
+  },
+  {
+    "id": "jewish",
+    "name": "Jewish",
+    "blurb": "Jewish weddings vary by community and family. Many include a ketubah, a chuppah, a ring, blessings over wine and breaking a glass. Talk with your rabbi about what fits you.",
+    "photo": "https://images.unsplash.com/photo-1791810182741-0647d2338534?w=800&h=600&q=70&auto=format&fit=crop",
+    "photoCredit": {
+      "name": "Ruben Mavarez",
+      "link": "https://unsplash.com/photos/wedding-ceremony-under-floral-chuppah-Z1c1D2FnDrE"
+    },
+    "lines": [
+      {
+        "id": "ketubah",
+        "category": "Faith (Jewish)",
+        "item": "Ketubah (marriage contract) and framing",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "A marriage contract signed before the ceremony by two witnesses. One guide says the cost varies greatly. One officiant's page says other ketubah websites can charge up to $1,000.",
+        "source": "https://www.jewbelong.com/lifecycle/wedding/"
+      },
+      {
+        "id": "chuppah",
+        "category": "Faith (Jewish)",
+        "item": "Chuppah (wedding canopy)",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "The couple stands under it for the ceremony. Ask your officiant or venue if one is included. One officiant's package includes a simple brass canopy with a white tallit cover.",
+        "source": "https://rabbipatrick.com/all-inclusive-personalized-jewish-weddings/"
+      },
+      {
+        "id": "rabbi-fee",
+        "category": "Faith (Jewish)",
+        "item": "Rabbi or Jewish officiant",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "No price found. Texas law lists a Jewish rabbi as someone who can perform the ceremony. Ask about the fee and what it covers.",
+        "source": "https://texas.public.law/statutes/tex._fam._code_section_2.202"
+      },
+      {
+        "id": "kiddush-cup-glass",
+        "category": "Faith (Jewish)",
+        "item": "Kiddush cup, wine and the glass you break",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "A cup for the blessing over wine, and a glass for the end of the ceremony. Some officiants provide them. One includes a kiddush cup as a gift and a glass wrapped in a napkin.",
+        "source": "https://rabbipatrick.com/all-inclusive-personalized-jewish-weddings/"
+      }
+    ],
+    "milestones": [
+      {
+        "id": "talk-to-rabbi",
+        "section": "team",
+        "title": "Talk with a rabbi or Jewish officiant",
+        "short": "Rabbis and communities do things differently, so ask early.",
+        "steps": [
+          {
+            "kind": "info",
+            "title": "Texas allows it",
+            "body": "Texas law lists a Jewish rabbi among the people who can perform a wedding ceremony."
+          },
+          {
+            "kind": "info",
+            "title": "If one of you is not Jewish",
+            "body": "Rabbis differ on interfaith weddings. Some decline, some co-officiate with clergy from the other faith, and some officiate alone. Ask each one."
+          },
+          {
+            "kind": "info",
+            "title": "Ask what is included",
+            "body": "One officiant's package includes the chuppah, ketubah, kiddush cup and glass. Ask what yours covers."
+          }
+        ]
+      },
+      {
+        "id": "ketubah-chuppah",
+        "section": "paper",
+        "title": "Plan the ketubah and the chuppah",
+        "short": "Pick the text, the witnesses and the canopy.",
+        "steps": [
+          {
+            "kind": "info",
+            "title": "Choose the ketubah",
+            "body": "Pick the text and design. Ask who will print and frame it before the ceremony."
+          },
+          {
+            "kind": "info",
+            "title": "Choose two witnesses",
+            "body": "One guide says witnesses are not supposed to be blood relatives, so close friends often do it."
+          },
+          {
+            "kind": "info",
+            "title": "Sort out the chuppah",
+            "body": "Ask your officiant or venue if they have one before you buy or rent one."
+          }
+        ]
+      }
+    ],
+    "vendorCategories": [
+      "officiants",
+      "florists",
+      "catering",
+      "DJ and music",
+      "photography"
+    ]
+  },
+  {
+    "id": "muslim",
+    "name": "Muslim",
+    "blurb": "The faith gives the frame and your culture fills it in, so Muslim weddings look different from family to family. The core is the nikah, the mahr and a walima. The nikah and walima can be on the same day or weeks apart.",
+    "photo": "https://images.unsplash.com/photo-1670014235502-08593dc092b4?w=800&h=600&q=70&auto=format&fit=crop",
+    "photoCredit": {
+      "name": "Amine İspir",
+      "link": "https://unsplash.com/photos/a-man-and-woman-holding-hands-t8zrGJlSb0M"
+    },
+    "lines": [
+      {
+        "id": "mahr",
+        "category": "Faith (Muslim)",
+        "item": "Mahr (the groom's gift, agreed before the nikah)",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "Agreed in advance and written into the marriage contract. It can be money, gold, jewelry or another gift, and it becomes the bride's own. It is described as a gift, not a payment or a dowry, so it is not a wedding cost. One guide says the couple agrees it, another says the families do, so settle it your own way. Size varies by culture and means.",
+        "source": "https://weddedwonderland.com/guides/muslim-wedding-traditions"
+      },
+      {
+        "id": "nikah-officiant",
+        "category": "Faith (Muslim)",
+        "item": "Imam or authorized officiant for the nikah",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "The nikah is usually led by an imam, sheikh or authorized officiant. No price found. Ask your imam about any fee or gift.",
+        "source": "https://weddedwonderland.com/guides/nikah-ceremony"
+      },
+      {
+        "id": "nikah-paperwork",
+        "category": "Faith (Muslim)",
+        "item": "Nikah contract and civil license paperwork",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "The contract is called the Nikah Nama. In the US a nikah alone is not legally binding, so most couples also file a civil marriage license. The El Paso fee is already in your budget.",
+        "source": "https://weddedwonderland.com/guides/nikah-ceremony"
+      },
+      {
+        "id": "walima",
+        "category": "Faith (Muslim)",
+        "item": "Walima (wedding feast)",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "A recommended act of generosity and often the biggest gathering. Traditionally hosted by the groom's family, though who pays differs.",
+        "source": "https://weddedwonderland.com/guides/muslim-wedding-traditions"
+      },
+      {
+        "id": "henna-night",
+        "category": "Faith (Muslim)",
+        "item": "Henna or mehndi night (if your culture has one)",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "A pre-wedding custom in many cultures. Dress, music, food and number of days vary by culture.",
+        "source": "https://weddedwonderland.com/guides/muslim-wedding-traditions"
+      }
+    ],
+    "milestones": [
+      {
+        "id": "agree-on-mahr",
+        "section": "foundation",
+        "title": "Agree on the mahr",
+        "short": "Talk about it early and write it down.",
+        "steps": [
+          {
+            "kind": "info",
+            "title": "Talk about it early",
+            "body": "The mahr is agreed in advance and recorded in the marriage contract."
+          },
+          {
+            "kind": "info",
+            "title": "Decide what it will be",
+            "body": "It can be money, gold, jewelry or another meaningful gift. The size varies widely by culture and means."
+          },
+          {
+            "kind": "info",
+            "title": "Keep it separate from the wedding budget",
+            "body": "It is the bride's own. It is not a payment for the wedding."
+          }
+        ]
+      },
+      {
+        "id": "plan-nikah",
+        "section": "team",
+        "title": "Plan the nikah",
+        "short": "Who leads it, who witnesses it and the legal license.",
+        "steps": [
+          {
+            "kind": "info",
+            "title": "Choose who leads the nikah",
+            "body": "Usually an imam, sheikh or authorized officiant. Ask your community who they recommend."
+          },
+          {
+            "kind": "info",
+            "title": "Ask about the wali and witnesses",
+            "body": "Many guides name a wali for the bride and at least two adult Muslim witnesses. Ask your imam what your community expects."
+          },
+          {
+            "kind": "info",
+            "title": "Also file the civil license",
+            "body": "A nikah alone is not legally binding in the US. The El Paso County Clerk's formal license is $81, and you both go in person."
+          }
+        ]
+      },
+      {
+        "id": "plan-walima",
+        "section": "big-three",
+        "title": "Plan the walima",
+        "short": "The feast can be the same day or later.",
+        "steps": [
+          {
+            "kind": "info",
+            "title": "Pick the day",
+            "body": "The nikah and walima can be on the same day or separated by days or even weeks."
+          },
+          {
+            "kind": "info",
+            "title": "Decide who hosts and pays",
+            "body": "It is traditionally hosted by the groom's family, but families split this in different ways. Talk it through early, and keep it within your means."
+          },
+          {
+            "kind": "info",
+            "title": "Book the place and the food",
+            "body": "Ask each venue and caterer about your menu and any rules before you sign."
+          }
+        ]
+      }
+    ],
+    "vendorCategories": [
+      "venues",
+      "catering",
+      "photography",
+      "florists",
+      "hair and makeup",
+      "henna artist"
+    ]
+  },
+  {
+    "id": "japanese",
+    "name": "Japanese",
+    "blurb": "A Shinto shrine ceremony is formal and can be followed by a reception with family, friends and coworkers. Families do it differently, and some couples wear a white dress and tuxedo at the reception.",
+    "photo": "https://images.unsplash.com/photo-1600506639353-ceaed5d285ee?w=800&h=600&q=70&auto=format&fit=crop&crop=bottom",
+    "photoCredit": {
+      "name": "Christian Chen",
+      "link": "https://unsplash.com/photos/man-in-black-suit-standing-beside-woman-in-white-hijab-bWrRtVujTQk"
+    },
+    "lines": [
+      {
+        "id": "shrine-fee",
+        "category": "Cultural (Japanese)",
+        "item": "Shinto shrine donation or ceremony fee",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "One US shrine lists a minimum donation of $1,000, with kimono and travel added when they apply. Each shrine sets its own rules and fees. Ask for the total.",
+        "source": "https://shintoinari.org/services-item/kekkon-shiki/"
+      },
+      {
+        "id": "kimono-rental",
+        "category": "Cultural (Japanese)",
+        "item": "Kimono rental and dressing",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "The bride wears a shiromuku, often with a white hood (wataboshi) over a wig. The groom wears a black montsuki, a haori jacket and hakama pants.",
+        "source": "https://learnjapanese123.com/what-happens-during-a-japanese-wedding-ceremony/"
+      },
+      {
+        "id": "hikidemono",
+        "category": "Cultural (Japanese)",
+        "item": "Hikidemono (small gifts for guests)",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "Souvenirs for guests, usually sweets and small trinkets that you choose. Skip it if your reception is small.",
+        "source": "https://learnjapanese123.com/what-happens-during-a-japanese-wedding-ceremony/"
+      },
+      {
+        "id": "priest-travel",
+        "category": "Cultural (Japanese)",
+        "item": "Priest travel expense",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "One US shrine performs the ceremony at your location. It says travel expenses may apply but gives no amount.",
+        "source": "https://shintoinari.org/services-item/kekkon-shiki/"
+      }
+    ],
+    "milestones": [
+      {
+        "id": "book-shrine",
+        "section": "big-three",
+        "title": "Find a shrine or priest and ask about the legal part",
+        "short": "A shrine ceremony and a legal marriage are not always the same thing.",
+        "steps": [
+          {
+            "kind": "info",
+            "title": "Find a shrine or a Shinto priest",
+            "body": "One US shrine comes to your location. It asks for a reservation and an application form, and says kimono is available on request."
+          },
+          {
+            "kind": "info",
+            "title": "Ask what is included",
+            "body": "Fees, kimono and travel can be separate. Ask for one total."
+          },
+          {
+            "kind": "info",
+            "title": "Check who can sign your license",
+            "body": "Texas lists a minister or priest, a rabbi, an authorized officer of a religious organization, or a judge. Ask the shrine if their priest counts. If not, a judge can sign your license."
+          }
+        ]
+      },
+      {
+        "id": "kimono-and-gifts",
+        "section": "team",
+        "title": "Plan the kimono and the hikidemono",
+        "short": "Two things that need lead time.",
+        "steps": [
+          {
+            "kind": "info",
+            "title": "Kimono",
+            "body": "Ask the shrine or a rental shop what is available and when you can try it on. Ask about the wig and headpiece the bride wears."
+          },
+          {
+            "kind": "info",
+            "title": "Hikidemono",
+            "body": "Pick small gifts for guests, usually sweets or trinkets. Order enough for everyone who comes."
+          }
+        ]
+      }
+    ],
+    "vendorCategories": [
+      "photography",
+      "dress and attire",
+      "hair and makeup",
+      "catering"
+    ]
+  },
+  {
+    "id": "chinese",
+    "name": "Chinese",
+    "blurb": "Chinese weddings vary by region and family. Many couples keep the tea ceremony, red envelopes, a banquet and the double happiness symbol, and shorten or skip the rest.",
+    "photo": "https://images.unsplash.com/photo-1672891700952-def7c93c3f13?w=800&h=600&q=70&auto=format&fit=crop",
+    "photoCredit": {
+      "name": "Stacie Ong",
+      "link": "https://unsplash.com/photos/a-man-and-a-woman-holding-a-cup-in-their-hands-6NimUakn-4E"
+    },
+    "lines": [
+      {
+        "id": "tea-ceremony-set",
+        "category": "Cultural (Chinese)",
+        "item": "Tea ceremony set (cups, tray and tea)",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "The couple kneels and serves tea to parents and elders, who offer blessings and usually red envelopes or jewelry. Serving order varies by family.",
+        "source": "https://paperlust.co/blog/chinese-wedding-traditions-guide/"
+      },
+      {
+        "id": "door-games",
+        "category": "Cultural (Chinese)",
+        "item": "Door games: red envelopes and small prizes",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "The groom does challenges to get to the bride. One guide lists envelopes of $288 to $688 for the lead bridesmaid, $88 to $188 for each bridesmaid, and 4 to 8 small group envelopes of $8.80, $18.80 or $28.80. Many Chinese-American families keep it to 20 to 30 minutes.",
+        "source": "https://paperlust.co/blog/chinese-wedding-traditions-guide/"
+      },
+      {
+        "id": "qipao-qun-kwa",
+        "category": "Cultural (Chinese)",
+        "item": "Red qipao (cheongsam) or qun kwa for the bride",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "The bridal qipao is almost always red. Qun kwa is a two-piece red and gold jacket and skirt, the formal choice for Cantonese families from Guangdong and Hong Kong.",
+        "source": "https://paperlust.co/blog/chinese-wedding-traditions-guide/"
+      },
+      {
+        "id": "guo-da-li",
+        "category": "Cultural (Chinese)",
+        "item": "Betrothal gifts (Guo Da Li)",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "The groom's family presents gifts such as tea, lotus seeds, longan, red dates, gold jewelry and cash in red envelopes. The bride's family returns part. Widely done, especially in Cantonese communities.",
+        "source": "https://paperlust.co/blog/chinese-wedding-traditions-guide/"
+      },
+      {
+        "id": "lion-dance",
+        "category": "Cultural (Chinese)",
+        "item": "Lion dance (optional)",
+        "typicalLow": 300,
+        "typicalHigh": 800,
+        "note": "A professional lion dance is an optional extra. Skip it if it does not matter to your families.",
+        "source": "https://paperlust.co/blog/chinese-wedding-traditions-guide/"
+      },
+      {
+        "id": "double-happiness-decor",
+        "category": "Cultural (Chinese)",
+        "item": "Double happiness signs and red decor",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "The double happiness character (囍) appears on nearly every part of a traditional ceremony.",
+        "source": "https://paperlust.co/blog/chinese-wedding-traditions-guide/"
+      }
+    ],
+    "milestones": [
+      {
+        "id": "parents-and-date",
+        "section": "foundation",
+        "title": "Ask your parents what to keep and pick the date",
+        "short": "Do this before you book a venue.",
+        "steps": [
+          {
+            "kind": "info",
+            "title": "Ask which customs matter",
+            "body": "Han, Cantonese and Northern Chinese customs differ in clothes, food and games. Ask both families which parts they want."
+          },
+          {
+            "kind": "info",
+            "title": "Pick a date",
+            "body": "Many families check the Chinese almanac, sometimes with a fortune teller or an elder. One guide says 8/8 is a popular date."
+          },
+          {
+            "kind": "info",
+            "title": "Write down what you keep",
+            "body": "Tea ceremony, door games, banquet. Decide now and the rest of the plan gets simpler."
+          }
+        ]
+      },
+      {
+        "id": "banquet-menu",
+        "section": "big-three",
+        "title": "Plan the banquet menu with your caterer",
+        "short": "Banquets have their own customs.",
+        "steps": [
+          {
+            "kind": "info",
+            "title": "Courses",
+            "body": "A traditional banquet has 8 to 9 auspicious courses served family style. One guide says Cantonese banquets sometimes run to 10, and Northern ones may reach 12."
+          },
+          {
+            "kind": "info",
+            "title": "Avoid the number 4",
+            "body": "The same guide says the number 4 is avoided. Ask the caterer to count courses that way."
+          },
+          {
+            "kind": "info",
+            "title": "Ask about fish and symbolic dishes",
+            "body": "Ask your caterer which dishes are lucky for your family and what they cost per guest."
+          }
+        ]
+      },
+      {
+        "id": "tea-and-door-games",
+        "section": "final",
+        "title": "Get ready for the tea ceremony and door games",
+        "short": "Small things that are easy to forget on the morning.",
+        "steps": [
+          {
+            "kind": "info",
+            "title": "Tea ceremony",
+            "body": "Make a list of elders in the order they will be served. Serving order and whether families are served together vary by family. Ask your parents."
+          },
+          {
+            "kind": "info",
+            "title": "Door games",
+            "body": "Many Chinese-American families keep them to 20 to 30 minutes. Pick the challenges and fill the red envelopes ahead of time."
+          },
+          {
+            "kind": "info",
+            "title": "Red envelopes",
+            "body": "Count how many you need: one for the lead bridesmaid, one per bridesmaid, and a few small ones for the group."
+          }
+        ]
+      }
+    ],
+    "vendorCategories": [
+      "catering",
+      "venues",
+      "dress and attire",
+      "photography",
+      "hair and makeup",
+      "invitations"
+    ]
+  },
+  {
+    "id": "nigerian",
+    "name": "Nigerian",
+    "blurb": "Nigeria has more than 250 ethnic groups, and Yoruba, Igbo and Hausa-Fulani weddings are quite different. Guides describe a traditional wedding and a church or civil wedding as two separate events. Ask both families which customs to follow.",
+    "photo": "https://images.unsplash.com/photo-1661332306744-70f9ed1a7f40?w=800&h=600&q=70&auto=format&fit=crop",
+    "photoCredit": {
+      "name": "Tope. A Asokere",
+      "link": "https://unsplash.com/photos/a-man-and-woman-wearing-traditional-clothing-AZKkp0bwJLM"
+    },
+    "lines": [
+      {
+        "id": "engagement-list",
+        "category": "Cultural (Nigerian)",
+        "item": "Traditional engagement items (the list from the bride's family)",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "One Yoruba guide lists food such as yams, palm wine, fruit, salt and candy, and goods such as luggage and cookware. Another source says palm wine and kola nuts are common symbolic gifts. The list and who pays differ by group and family, so ask the bride's family.",
+        "source": "https://eventdesignbybe.com/the-ultimate-guide-to-nigerian-wedding-traditions-for-yoruba-weddings"
+      },
+      {
+        "id": "bride-price",
+        "category": "Cultural (Nigerian)",
+        "item": "Bride price or dowry",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "A gift of gratitude and a promise of support. Its type and value depend on the tradition, and the groom's family usually presents it before the wedding. This is not a vendor cost. Settle it with both families.",
+        "source": "https://businessday.ng/bd-weekender/article/similarities-and-differences-in-nigerian-marriage-traditions/"
+      },
+      {
+        "id": "aso-ebi",
+        "category": "Cultural (Nigerian)",
+        "item": "Aso ebi fabric (matching outfits for family and friends)",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "Families wear matching fabric. The couple's families choose it and each person has it sewn by a tailor they pick. Some couples add an aso ebi card to the invitation.",
+        "source": "https://eventdesignbybe.com/the-ultimate-guide-to-nigerian-wedding-traditions-for-yoruba-weddings"
+      },
+      {
+        "id": "alaga-mcs",
+        "category": "Cultural (Nigerian)",
+        "item": "Alaga (two MCs for a Yoruba engagement)",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "Two women MCs, one for each family. For a wedding where only one of you is Nigerian, one Alaga for both families is normally fine.",
+        "source": "https://eventdesignbybe.com/the-ultimate-guide-to-nigerian-wedding-traditions-for-yoruba-weddings"
+      },
+      {
+        "id": "traditional-outfits",
+        "category": "Cultural (Nigerian)",
+        "item": "Traditional outfits for the couple",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "Yoruba brides and grooms wear items like agbada and gele. Igbo brides wear beaded attire and Igbo grooms a red cap and isiagu fabric. The bride often has a second outfit change.",
+        "source": "https://businessday.ng/bd-weekender/article/similarities-and-differences-in-nigerian-marriage-traditions/"
+      },
+      {
+        "id": "palm-wine-cup",
+        "category": "Cultural (Nigerian)",
+        "item": "Igbo wine carrying: palm wine and cup",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "In the Igbo ceremony the bride carries a cup of palm wine to her groom among the guests. Skip this if it is not your family's custom.",
+        "source": "https://businessday.ng/bd-weekender/article/similarities-and-differences-in-nigerian-marriage-traditions/"
+      }
+    ],
+    "milestones": [
+      {
+        "id": "which-customs",
+        "section": "foundation",
+        "title": "Decide which customs to follow with both families",
+        "short": "Yoruba and Igbo customs differ, so talk first.",
+        "steps": [
+          {
+            "kind": "info",
+            "title": "Know the groups",
+            "body": "Yoruba, Igbo and Hausa-Fulani are the largest groups in the diaspora. Each has its own ceremony names and customs."
+          },
+          {
+            "kind": "info",
+            "title": "If you come from different groups",
+            "body": "One guide says the bride's culture governs, or the father's if the bride is of mixed heritage. Ask your families before you decide."
+          },
+          {
+            "kind": "info",
+            "title": "Choose your events",
+            "body": "Guides describe a traditional wedding and a church or civil wedding as two separate events. Decide which ones you will hold."
+          }
+        ]
+      },
+      {
+        "id": "traditional-engagement",
+        "section": "team",
+        "title": "Plan the traditional engagement",
+        "short": "The list, the gifts and the people who lead it.",
+        "steps": [
+          {
+            "kind": "info",
+            "title": "Get the list",
+            "body": "Ask the bride's family what they expect the groom's family to bring."
+          },
+          {
+            "kind": "info",
+            "title": "Plan the MCs",
+            "body": "For a Yoruba engagement, plan two Alaga, one for each family."
+          },
+          {
+            "kind": "info",
+            "title": "Plan outfits",
+            "body": "Traditional dress varies by group. The bride often has a second outfit change."
+          }
+        ]
+      },
+      {
+        "id": "aso-ebi",
+        "section": "paper",
+        "title": "Choose the aso ebi fabric and add the card",
+        "short": "Give guests time to get their outfits sewn.",
+        "steps": [
+          {
+            "kind": "info",
+            "title": "Pick the fabric",
+            "body": "The couple chooses the colors. Paperlust says there is no single traditional color."
+          },
+          {
+            "kind": "info",
+            "title": "Add an insert to the invitation",
+            "body": "A card can list the fabric colors, vendor contacts and what guests without fabric should wear."
+          },
+          {
+            "kind": "info",
+            "title": "Send the fabric early",
+            "body": "Guests need time to get it sewn by a tailor."
+          }
+        ]
+      }
+    ],
+    "vendorCategories": [
+      "venues",
+      "catering",
+      "dress and attire",
+      "DJ and music",
+      "photography",
+      "videography",
+      "invitations"
+    ]
+  },
+  {
+    "id": "civil",
+    "name": "Courthouse or civil",
+    "blurb": "A short ceremony with a judge or officiant, with your license from the El Paso County Clerk. You can still have a party after.",
+    "photo": "https://images.unsplash.com/photo-1786206432186-f0201a7056bd?w=800&h=600&q=70&auto=format&fit=crop",
+    "photoCredit": {
+      "name": "Peter Muniz",
+      "link": "https://unsplash.com/photos/bride-and-groom-on-wedding-steps-MR4IMUxyuQk"
+    },
+    "lines": [
+      {
+        "id": "civil-ceremony-fee",
+        "category": "Civil ceremony",
+        "item": "Judge or courthouse ceremony fee",
+        "typicalLow": null,
+        "typicalHigh": null,
+        "note": "Texas lets a current, former or retired federal or state judge perform a ceremony. The El Paso County Clerk's license page lists no ceremony fee. Ask the judge's court what, if anything, they charge.",
+        "source": "https://texas.public.law/statutes/tex._fam._code_section_2.202"
+      },
+      {
+        "id": "license-non-texas",
+        "category": "Civil ceremony",
+        "item": "Marriage license if you do not live in Texas",
+        "typicalLow": 181,
+        "typicalHigh": 181,
+        "note": "The El Paso County Clerk lists $181 for non-Texas residents, next to the $81 formal fee. Ask the Clerk how it applies if only one of you lives outside Texas, and whether it replaces the $81.",
+        "source": "https://www.epcounty.com/585/Marriage-License"
+      }
+    ],
+    "milestones": [
+      {
+        "id": "civil-judge",
+        "section": "team",
+        "title": "Ask a judge's court about a ceremony",
+        "short": "Find out who can marry you and when.",
+        "steps": [
+          {
+            "kind": "info",
+            "title": "Know who can marry you",
+            "body": "Texas law lists a judge, a licensed or ordained Christian minister or priest, a rabbi, or an authorized officer of a religious organization."
+          },
+          {
+            "kind": "info",
+            "title": "Call the court",
+            "body": "The El Paso County Clerk's license page does not say how to book a judge or what it costs. Call the court you have in mind and ask."
+          },
+          {
+            "kind": "info",
+            "title": "Pick a few dates",
+            "body": "Your license is good for 89 days, so choose a date that fits."
+          }
+        ]
+      },
+      {
+        "id": "civil-license-day",
+        "section": "final",
+        "title": "Plan your license and ceremony day",
+        "short": "Both of you go in person, and the clock starts when it is issued.",
+        "steps": [
+          {
+            "kind": "info",
+            "title": "Go to the Clerk together",
+            "body": "You both go in person with a valid government photo ID, and you need to know your Social Security number."
+          },
+          {
+            "kind": "info",
+            "title": "The 72-hour wait",
+            "body": "You cannot marry until 72 hours after the license is issued, unless a waiver applies. Waivers include active-duty military, Defense Department employees or contractors, a Twogether in Texas certificate, or a waiver signed by a judge."
+          },
+          {
+            "kind": "info",
+            "title": "Use it within 89 days",
+            "body": "The marriage must happen within 89 days of the license date, with no exceptions."
+          }
+        ]
+      }
+    ],
+    "vendorCategories": [
+      "photography",
+      "florists",
+      "bakeries and cakes",
+      "catering"
+    ]
+  },
+  {
+    "id": "mixed",
+    "name": "Mixed or our own",
+    "blurb": "Blending two traditions, or making up your own? Pick any of the others to borrow what you like, then add your own lines and steps. There are no fixed lines here.",
+    "photo": "https://images.unsplash.com/photo-1780291366449-8e11bc4ed679?w=800&h=600&q=70&auto=format&fit=crop",
+    "photoCredit": {
+      "name": "Brooke Balentine",
+      "link": "https://unsplash.com/photos/newlyweds-smiling-at-each-other-among-white-blossoms-Vba73GfU-mY"
+    },
+    "lines": [],
+    "milestones": [],
+    "vendorCategories": []
+  }
+]

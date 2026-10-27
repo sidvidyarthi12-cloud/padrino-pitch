@@ -1,0 +1,1164 @@
+{
+  "demo": true,
+  "couple": {
+    "names": [
+      "Ana",
+      "Luis"
+    ],
+    "weddingDate": "2027-06-12",
+    "city": "El Paso",
+    "guests": 120
+  },
+  "money": {
+    "saved": 12000,
+    "monthly": 700,
+    "startMonth": "2026-11"
+  },
+  "priorities": {
+    "a": [
+      "photo",
+      "food",
+      "music"
+    ],
+    "b": [
+      "food",
+      "venue",
+      "dress"
+    ],
+    "top": [
+      "food",
+      "photo",
+      "venue"
+    ]
+  },
+  "lines": [
+    {
+      "id": "venue-rental",
+      "category": "Venue and catering",
+      "item": "Venue rental / site fee",
+      "planned": 4500,
+      "committed": 4500,
+      "paid": 1125,
+      "vendor": "Sample Hall (demo)",
+      "protected": true,
+      "forgotten": false,
+      "quoteId": "q1"
+    },
+    {
+      "id": "event-rentals",
+      "category": "Venue and catering",
+      "item": "Event rentals (tables / chairs / linens)",
+      "planned": 1100,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "rental-delivery",
+      "category": "Venue and catering",
+      "item": "Rental delivery / pickup fee",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "catering-food",
+      "category": "Venue and catering",
+      "item": "Catering - food",
+      "planned": 4800,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": true,
+      "forgotten": false,
+      "quoteId": null
+    },
+    {
+      "id": "bar-alcohol",
+      "category": "Venue and catering",
+      "item": "Bar / alcohol service",
+      "planned": 1000,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": false,
+      "quoteId": null
+    },
+    {
+      "id": "cake",
+      "category": "Venue and catering",
+      "item": "Cake and desserts",
+      "planned": 500,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": false,
+      "quoteId": null
+    },
+    {
+      "id": "service-charge",
+      "category": "Venue and catering",
+      "item": "Venue / caterer service charge",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "sales-tax",
+      "category": "Venue and catering",
+      "item": "Sales tax on venue / catering",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "gratuity-catering",
+      "category": "Venue and catering",
+      "item": "Gratuity - catering / venue staff (if not in service charge)",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "cake-cutting",
+      "category": "Venue and catering",
+      "item": "Cake-cutting fee",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "corkage",
+      "category": "Venue and catering",
+      "item": "Corkage fee",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "outside-vendor-fee",
+      "category": "Venue and catering",
+      "item": "Non-preferred-vendor fee",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "garbage-removal",
+      "category": "Venue and catering",
+      "item": "Garbage removal",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "cleaning",
+      "category": "Venue and catering",
+      "item": "Cleaning",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "venue-overtime",
+      "category": "Venue and catering",
+      "item": "Venue overtime / extra hours",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "vendor-meals",
+      "category": "Venue and catering",
+      "item": "Vendor meals",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "extra-guests",
+      "category": "Venue and catering",
+      "item": "Extra / uninvited guests",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "insurance",
+      "category": "Venue and catering",
+      "item": "Wedding insurance",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "wedding-dress",
+      "category": "Attire and beauty",
+      "item": "Wedding dress",
+      "planned": 1000,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": false,
+      "quoteId": null
+    },
+    {
+      "id": "grooms-attire",
+      "category": "Attire and beauty",
+      "item": "Groom's attire",
+      "planned": 260,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": false,
+      "quoteId": null
+    },
+    {
+      "id": "alterations",
+      "category": "Attire and beauty",
+      "item": "Dress alterations and steaming",
+      "planned": 300,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "accessories",
+      "category": "Attire and beauty",
+      "item": "Undergarments and accessories (veil / shoes / jewelry)",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "hair-makeup",
+      "category": "Attire and beauty",
+      "item": "Hair and makeup (wedding day)",
+      "planned": 250,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": false,
+      "quoteId": null
+    },
+    {
+      "id": "hair-makeup-trial",
+      "category": "Attire and beauty",
+      "item": "Hair and makeup trial",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "dress-preservation",
+      "category": "Attire and beauty",
+      "item": "Dress preservation / cleaning",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "wellness-beauty",
+      "category": "Attire and beauty",
+      "item": "Wellness and beauty prep (nails / spa / skin)",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "party-attire",
+      "category": "Attire and beauty",
+      "item": "Wedding party attire and hair/makeup",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": false,
+      "quoteId": null
+    },
+    {
+      "id": "photographer",
+      "category": "Photo and video",
+      "item": "Photographer",
+      "planned": 1800,
+      "committed": 1800,
+      "paid": 0,
+      "vendor": "Sample Photography (demo)",
+      "protected": true,
+      "forgotten": false,
+      "quoteId": "q2"
+    },
+    {
+      "id": "second-photographer",
+      "category": "Photo and video",
+      "item": "Second photographer",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": true,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "photographer-travel",
+      "category": "Photo and video",
+      "item": "Photographer travel fee",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "videographer",
+      "category": "Photo and video",
+      "item": "Videographer",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": false,
+      "quoteId": null
+    },
+    {
+      "id": "albums-prints",
+      "category": "Photo and video",
+      "item": "Albums and prints",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": true,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "photo-overtime",
+      "category": "Photo and video",
+      "item": "Photo / video overtime",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "dj",
+      "category": "Music and entertainment",
+      "item": "DJ",
+      "planned": 800,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": false,
+      "quoteId": null
+    },
+    {
+      "id": "live-band",
+      "category": "Music and entertainment",
+      "item": "Live band",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": false,
+      "quoteId": null
+    },
+    {
+      "id": "ceremony-music",
+      "category": "Music and entertainment",
+      "item": "Ceremony music",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "sound-equipment",
+      "category": "Music and entertainment",
+      "item": "Sound / equipment upgrades",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "extra-entertainment",
+      "category": "Music and entertainment",
+      "item": "Additional entertainment (photo booth etc.)",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": false,
+      "quoteId": null
+    },
+    {
+      "id": "florist",
+      "category": "Flowers and decor",
+      "item": "Florist (bouquets / ceremony / centerpieces)",
+      "planned": 900,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": false,
+      "quoteId": null
+    },
+    {
+      "id": "lighting-decor",
+      "category": "Flowers and decor",
+      "item": "Lighting and decor",
+      "planned": 600,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": false,
+      "quoteId": null
+    },
+    {
+      "id": "weather-items",
+      "category": "Flowers and decor",
+      "item": "Weather-related items (tent / umbrellas / blankets)",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "invitations",
+      "category": "Stationery and postage",
+      "item": "Invitation suite",
+      "planned": 250,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": false,
+      "quoteId": null
+    },
+    {
+      "id": "save-the-dates",
+      "category": "Stationery and postage",
+      "item": "Save-the-dates",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": false,
+      "quoteId": null
+    },
+    {
+      "id": "postage",
+      "category": "Stationery and postage",
+      "item": "Invitation postage",
+      "planned": 100,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "thank-you-cards",
+      "category": "Stationery and postage",
+      "item": "Thank-you cards and post-wedding postage",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "wedding-bands",
+      "category": "Rings",
+      "item": "Wedding bands",
+      "planned": 500,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": false,
+      "quoteId": null
+    },
+    {
+      "id": "engagement-ring",
+      "category": "Rings",
+      "item": "Engagement ring (outside headline average)",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "officiant",
+      "category": "Officiant and license",
+      "item": "Officiant",
+      "planned": 200,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": false,
+      "quoteId": null
+    },
+    {
+      "id": "marriage-license",
+      "category": "Officiant and license",
+      "item": "Marriage license - El Paso County (formal)",
+      "planned": 81,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "license-copy",
+      "category": "Officiant and license",
+      "item": "Certified marriage license copy - El Paso County",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "premarital-course",
+      "category": "Officiant and license",
+      "item": "Premarital course (Twogether in Texas)",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": false,
+      "quoteId": null
+    },
+    {
+      "id": "planner",
+      "category": "Planning",
+      "item": "Wedding planner (full service)",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": false,
+      "quoteId": null
+    },
+    {
+      "id": "day-of-coordinator",
+      "category": "Planning",
+      "item": "Day-of coordinator",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": false,
+      "quoteId": null
+    },
+    {
+      "id": "transportation",
+      "category": "Transportation",
+      "item": "Wedding-day transportation",
+      "planned": 300,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": false,
+      "quoteId": null
+    },
+    {
+      "id": "guest-shuttle",
+      "category": "Transportation",
+      "item": "Guest shuttle / coach",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "hotel-block",
+      "category": "Lodging",
+      "item": "Guest hotel room block",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": false,
+      "quoteId": null
+    },
+    {
+      "id": "welcome-bag-delivery",
+      "category": "Lodging",
+      "item": "Welcome bag delivery fee",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "favors",
+      "category": "Favors and gifts",
+      "item": "Favors",
+      "planned": 250,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "thank-you-gifts",
+      "category": "Favors and gifts",
+      "item": "Thank-you gifts (wedding party / parents / vendors)",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "rehearsal-dinner",
+      "category": "Events around the wedding",
+      "item": "Rehearsal dinner (outside headline average)",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "extra-events",
+      "category": "Events around the wedding",
+      "item": "Welcome drinks / after-party / day-after brunch",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "pre-wedding-parties",
+      "category": "Events around the wedding",
+      "item": "Engagement party / shower / bachelor-bachelorette",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": false,
+      "quoteId": null
+    },
+    {
+      "id": "honeymoon",
+      "category": "Honeymoon and after",
+      "item": "Honeymoon (outside headline average)",
+      "planned": 800,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "passport",
+      "category": "Honeymoon and after",
+      "item": "Passport renewal + expedite",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "name-change",
+      "category": "Honeymoon and after",
+      "item": "Name-change fees",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "tip-photographer",
+      "category": "Tips",
+      "item": "Tip - photographer",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "tip-dj",
+      "category": "Tips",
+      "item": "Tip - DJ",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "tip-planner",
+      "category": "Tips",
+      "item": "Tip - planner",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "tip-coordinator",
+      "category": "Tips",
+      "item": "Tip - day-of coordinator",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "tip-hair-makeup",
+      "category": "Tips",
+      "item": "Tip - hair and makeup",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "tip-band",
+      "category": "Tips",
+      "item": "Tip - band",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "lazo",
+      "category": "Cultural (Mexican and Mexican-American)",
+      "item": "Lazo (wedding lasso)",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": false,
+      "quoteId": null
+    },
+    {
+      "id": "arras",
+      "category": "Cultural (Mexican and Mexican-American)",
+      "item": "Arras (13 coins)",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": false,
+      "quoteId": null
+    },
+    {
+      "id": "mariachi-short",
+      "category": "Cultural (Mexican and Mexican-American)",
+      "item": "Mariachi - short set (30 min)",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": false,
+      "quoteId": null
+    },
+    {
+      "id": "mariachi-full",
+      "category": "Cultural (Mexican and Mexican-American)",
+      "item": "Mariachi - full reception set",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": false,
+      "quoteId": null
+    },
+    {
+      "id": "tip-mariachi",
+      "category": "Cultural (Mexican and Mexican-American)",
+      "item": "Tip - mariachi",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "tornaboda",
+      "category": "Cultural (Mexican and Mexican-American)",
+      "item": "Tornaboda (after-party / morning-after meal)",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "cushion",
+      "category": "Cushion and backup",
+      "item": "Cushion",
+      "planned": 2029.1,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    },
+    {
+      "id": "weather-backup",
+      "category": "Cushion and backup",
+      "item": "Weather and backup plan",
+      "planned": 0,
+      "committed": 0,
+      "paid": 0,
+      "vendor": null,
+      "protected": false,
+      "forgotten": true,
+      "quoteId": null
+    }
+  ],
+  "quotes": [
+    {
+      "id": "q1",
+      "vendor": "Sample Hall (demo)",
+      "category": "Venue and catering",
+      "createdAt": "2026-09-10T16:00:00.000Z",
+      "decoded": {
+        "vendor": "Sample Hall (demo)",
+        "category": "Venue and catering",
+        "lineId": "venue-rental",
+        "items": [
+          {
+            "label": "Hall rental, 8 hours",
+            "kind": "base",
+            "amount": 4500,
+            "perGuest": null,
+            "foodBev": false
+          }
+        ],
+        "charges": [
+          {
+            "label": "Sales tax",
+            "kind": "tax",
+            "rate": 0,
+            "basis": "taxable",
+            "stated": true
+          }
+        ],
+        "missing": [],
+        "vague": [],
+        "questions": [],
+        "schedule": [
+          {
+            "label": "Deposit",
+            "rule": "25% at signing"
+          },
+          {
+            "label": "Second payment",
+            "rule": "25% due 2027-01-15"
+          },
+          {
+            "label": "Balance",
+            "rule": "Final payment due 30 days before"
+          }
+        ],
+        "cancellation": null
+      }
+    },
+    {
+      "id": "q2",
+      "vendor": "Sample Photography (demo)",
+      "category": "Photo and video",
+      "createdAt": "2026-10-02T15:30:00.000Z",
+      "decoded": {
+        "vendor": "Sample Photography (demo)",
+        "category": "Photo and video",
+        "lineId": "photographer",
+        "items": [
+          {
+            "label": "Wedding day coverage, 8 hours",
+            "kind": "base",
+            "amount": 1800,
+            "perGuest": null,
+            "foodBev": false
+          }
+        ],
+        "charges": [
+          {
+            "label": "Sales tax",
+            "kind": "tax",
+            "rate": 0,
+            "basis": "taxable",
+            "stated": true
+          }
+        ],
+        "missing": [],
+        "vague": [],
+        "questions": [],
+        "schedule": [
+          {
+            "label": "Retainer",
+            "rule": "30% due 2026-11-06"
+          },
+          {
+            "label": "Balance",
+            "rule": "Final payment due 14 days before"
+          }
+        ],
+        "cancellation": null
+      }
+    }
+  ],
+  "payments": [
+    {
+      "id": "p1",
+      "lineId": "venue-rental",
+      "label": "Venue deposit",
+      "amount": 1125,
+      "dueDate": "2026-09-15",
+      "status": "paid",
+      "paidOn": "2026-09-15",
+      "source": "quote"
+    },
+    {
+      "id": "p2",
+      "lineId": "venue-rental",
+      "label": "Venue second payment",
+      "amount": 1125,
+      "dueDate": "2027-01-15",
+      "status": "due",
+      "paidOn": null,
+      "source": "quote"
+    },
+    {
+      "id": "p3",
+      "lineId": "venue-rental",
+      "label": "Venue balance",
+      "amount": 2250,
+      "dueDate": "2027-05-13",
+      "status": "due",
+      "paidOn": null,
+      "source": "quote"
+    },
+    {
+      "id": "p4",
+      "lineId": "photographer",
+      "label": "Photographer retainer",
+      "amount": 540,
+      "dueDate": "2026-11-06",
+      "status": "due",
+      "paidOn": null,
+      "source": "quote"
+    },
+    {
+      "id": "p5",
+      "lineId": "photographer",
+      "label": "Photographer balance",
+      "amount": 1260,
+      "dueDate": "2027-05-29",
+      "status": "due",
+      "paidOn": null,
+      "source": "quote"
+    }
+  ],
+  "pledges": [
+    {
+      "id": "f1",
+      "name": "Mom and Dad",
+      "relation": "Parents",
+      "lineId": "venue-rental",
+      "item": "Venue",
+      "amount": 3000,
+      "received": 1125,
+      "strings": "They would like to add 15 guests to the list."
+    },
+    {
+      "id": "f2",
+      "name": "Tio Javier",
+      "relation": "Uncle",
+      "lineId": "cake",
+      "item": "Cake",
+      "amount": 450,
+      "received": 0,
+      "strings": ""
+    },
+    {
+      "id": "f3",
+      "name": "Madrina Rosa",
+      "relation": "Madrina",
+      "lineId": "florist",
+      "item": "Flowers",
+      "amount": 800,
+      "received": 0,
+      "strings": "Wants a say in the colors."
+    }
+  ],
+  "settings": {
+    "taxRate": 0.0825,
+    "cushionPct": 0.1
+  }
+}

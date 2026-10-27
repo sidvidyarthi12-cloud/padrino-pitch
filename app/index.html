@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#EFE3CB" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#141827" media="(prefers-color-scheme: dark)">
+  <title>Padrino</title>
+  <meta name="description" content="Wedding money, decided before it happens. Connect your bank and talk.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230F1115'/%3E%3Ctext x='16' y='23' text-anchor='middle' font-family='system-ui,sans-serif' font-size='20' font-weight='800' fill='%23FFFFFF'%3EP%3C/text%3E%3C/svg%3E">
+  <script src="demo-api.js"></script>
+</head>
+<body>
+  <div class="demo-banner" role="note">Online demo. AI answers were saved from the real app.</div>
+  <div class="app" id="app">
+    <header class="topbar">
+      <div class="topbar-inner">
+        <a class="wordmark" href="#/path" id="brand-name">Padrino</a>
+        <span class="demo-flag" id="demo-tag" hidden>Demo</span>
+        <span class="topbar-spacer"></span>
+        <button class="icon-btn" id="theme-btn" type="button" aria-label="Switch light or dark mode"></button>
+        <button class="icon-btn" id="menu-btn" type="button" aria-label="Menu" aria-haspopup="true" aria-expanded="false"></button>
+        <div class="menu" id="menu" hidden role="menu"></div>
+      </div>
+    </header>
+    <div class="resume" id="resume" hidden></div>
+    <div class="layout">
+      <nav class="nav" id="nav" aria-label="Main"></nav>
+      <main class="screen" id="screen" tabindex="-1"></main>
+    </div>
+  </div>
+
+  <div id="toast-root"></div>
+
+  <div class="boot-error" id="boot-error" hidden>
+    <h2>Padrino did not start</h2>
+    <p class="mt-s muted">A script or data file did not load. Check that <code>public/lib/money.js</code> and the files in <code>public/data/</code> exist, then reload.</p>
+    <p class="mt-s tiny" id="boot-error-detail"></p>
+  </div>
+
+  <script>
+    // If the module graph fails to load (for example lib/money.js is missing), say so instead of a blank page.
+    window.__padrinoBootError = null;
+    window.addEventListener('error', function (e) {
+      if (!window.__padrinoReady) window.__padrinoBootError = e.message || String(e.error || '');
+    });
+    window.addEventListener('unhandledrejection', function (e) {
+      if (!window.__padrinoReady) window.__padrinoBootError = (e.reason && e.reason.message) || String(e.reason || '');
+    });
+    setTimeout(function () {
+      if (window.__padrinoReady) return;
+      var box = document.getElementById('boot-error');
+      var detail = document.getElementById('boot-error-detail');
+      if (box) box.hidden = false;
+      if (detail && window.__padrinoBootError) detail.textContent = window.__padrinoBootError;
+    }, 3000);
+  </script>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,109 @@
+{
+  "vendor": "Sample Hall and Catering (demo)",
+  "category": "Venue and catering",
+  "lineId": "venue-rental",
+  "items": [
+    {
+      "label": "Hall rental, 6 hours",
+      "kind": "base",
+      "amount": 3800,
+      "perGuest": null,
+      "foodBev": false
+    },
+    {
+      "label": "Taco bar dinner",
+      "kind": "base",
+      "amount": null,
+      "perGuest": 48,
+      "foodBev": true
+    },
+    {
+      "label": "Agua fresca and soft drink station",
+      "kind": "base",
+      "amount": null,
+      "perGuest": 6,
+      "foodBev": true
+    },
+    {
+      "label": "Tables, chairs and linens",
+      "kind": "base",
+      "amount": 900,
+      "perGuest": null,
+      "foodBev": false
+    }
+  ],
+  "charges": [
+    {
+      "label": "Service charge",
+      "kind": "service",
+      "rate": 0.22,
+      "basis": "food_bev"
+    },
+    {
+      "label": "Sales tax",
+      "kind": "tax",
+      "rate": 0.0825,
+      "basis": "taxable",
+      "stated": false
+    }
+  ],
+  "missing": [
+    {
+      "label": "Vendor meals",
+      "kind": "meals",
+      "estimate": {
+        "perVendor": 50,
+        "count": 6
+      },
+      "why": "Most contracts require you to feed the photographer, DJ and other vendors.",
+      "lesson": 8
+    },
+    {
+      "label": "Venue overtime",
+      "kind": "overtime",
+      "estimate": {
+        "perHour": 500,
+        "hours": 1
+      },
+      "why": "Extra venue time can cost $500 an hour or more. This assumes one extra hour.",
+      "lesson": 5
+    }
+  ],
+  "vague": [
+    {
+      "term": "Taco bar dinner",
+      "ask": "How many meats, sides and staff are included, and for how many hours?"
+    },
+    {
+      "term": "Tables, chairs and linens",
+      "ask": "How many of each, and who sets up and takes down?"
+    },
+    {
+      "term": "Hall rental, 6 hours",
+      "ask": "Do the 6 hours include setup and cleanup, or only the party?"
+    }
+  ],
+  "questions": [
+    "Is the 22% service charge a tip, or do staff get a separate gratuity?",
+    "Does tax apply to the service charge?",
+    "What happens to the price if our guest count changes after we sign?",
+    "Can we bring our own cake or wine? What are the cake-cutting and corkage fees?",
+    "Do you have a vendor meal rate for our photographer and DJ?",
+    "What is the hourly rate if the party runs over?"
+  ],
+  "schedule": [
+    {
+      "label": "Deposit",
+      "rule": "50% at signing"
+    },
+    {
+      "label": "Second payment",
+      "rule": "25% due 90 days before"
+    },
+    {
+      "label": "Balance",
+      "rule": "Final payment due 30 days before"
+    }
+  ],
+  "cancellation": "The deposit is not refundable. If you cancel less than 90 days before the date, you still owe the full balance."
+}

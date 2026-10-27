@@ -1,0 +1,215 @@
+{
+  "checked": "2026-10-24",
+  "note": "Steps are in a good order to do them. Each one links to the official page it came from. Steps marked custom are common habits, not rules. This is not legal or tax advice.",
+  "steps": [
+    {
+      "id": "marriage-certificate",
+      "title": "Get certified copies of your marriage license",
+      "why": "Almost every office below wants a certified copy of your marriage record, not a photocopy.",
+      "how": [
+        "Your officiant fills out the license and returns it to the county clerk within 30 days after the wedding.",
+        "The county clerk records it and mails the license back to the address you put on your application.",
+        "Ask the county clerk where you got your license for certified copies. In El Paso County the clerk lists a certified copy at $7.",
+        "Order several so you can send them to more than one office at the same time. In Texas, certified copies of a marriage license come only from the county clerk where the license was filed.",
+        "A state verification letter is not a legal replacement for the license."
+      ],
+      "deadline": "The officiant has 30 days to return the license. Order your copies right after that.",
+      "source": "https://guides.sll.texas.gov/marriage-in-texas/conducting-the-ceremony",
+      "moreSources": [
+        "https://www.epcounty.com/585/Marriage-License",
+        "https://www.dshs.texas.gov/vital-statistics/marriage-divorce-records"
+      ],
+      "custom": false
+    },
+    {
+      "id": "social-security",
+      "title": "Change your name with Social Security",
+      "why": "Other agencies learn about name changes through Social Security, and the IRS wants the name on your tax return to match Social Security's record.",
+      "how": [
+        "Wait for the state to record your marriage. Social Security says that usually takes about 30 days.",
+        "Start online through your my Social Security account, or print Form SS-5 and make an appointment at a local Social Security office.",
+        "Bring proof of who you are (a U.S. driver license is preferred, or a state ID or U.S. passport) and proof of your name change (your marriage certificate).",
+        "If you are not a U.S. citizen, bring proof of your immigration status, like a green card or work permit.",
+        "Documents must be originals or copies certified by the agency that issued them. Photocopies and notarized copies are not accepted."
+      ],
+      "deadline": "No set deadline. Social Security suggests doing this before you go to the driver license office.",
+      "source": "https://www.ssa.gov/blog/en/posts/2026-10-22.html",
+      "moreSources": [
+        "https://www.usa.gov/name-change"
+      ],
+      "custom": false
+    },
+    {
+      "id": "texas-driver-license",
+      "title": "Update your Texas driver license or ID",
+      "why": "Texas asks you to report a name change, and a new license in your new name makes the next steps easier.",
+      "how": [
+        "Visit any Texas driver license office. The DPS page describes this as an in-person visit.",
+        "Bring an original of your marriage license, or a marriage verification letter from the Texas Department of State Health Services. Copies are not accepted.",
+        "You apply for a replacement license and pay the replacement fee. The DPS fees page lists the amount."
+      ],
+      "deadline": "Within 30 days of the change, says Texas DPS.",
+      "source": "https://www.dps.texas.gov/section/driver-license/how-change-information-your-driver-license-or-id-card",
+      "moreSources": [
+        "https://www.usa.gov/name-change"
+      ],
+      "note": "Texas DPS says 30 days. Social Security suggests doing Social Security first. If that squeeze is a problem, call DPS and ask.",
+      "custom": false
+    },
+    {
+      "id": "passport",
+      "title": "Change your name on your U.S. passport",
+      "why": "The name on your passport should match your other ID before you book international travel.",
+      "how": [
+        "Passport issued 1 year ago or less, and you changed your name by marriage less than a year after it was issued: use Form DS-5504 by mail. It is free unless you pay to rush it.",
+        "Passport is older: use Form DS-82 to renew by mail. You can use it when you can send your current passport, which was issued when you were 16 or older and within the past 15 years. Read the first page of the form for the other rules. It has a fee, listed at travel.state.gov/passportfees.",
+        "If neither form fits, apply on Form DS-11, the full passport application.",
+        "With any of them, send a certified copy of your marriage certificate (it shows a seal and the officiant's signature), your current passport, and a 2x2 color photo."
+      ],
+      "deadline": "No set deadline. USA.gov says to report the change to the State Department as soon as possible. Do it before you book travel.",
+      "source": "https://eforms.state.gov/Forms/ds5504_pdf.PDF",
+      "moreSources": [
+        "https://eforms.state.gov/Forms/ds82_pdf.PDF",
+        "https://www.usa.gov/name-change"
+      ],
+      "custom": false
+    },
+    {
+      "id": "banks-and-cards",
+      "title": "Tell your banks and credit card companies",
+      "why": "Your bank and card names should match your ID so checks, transfers and new cards work.",
+      "how": [
+        "Do Social Security and your driver license first, so you have updated ID to show.",
+        "Ask each bank and card company what it needs. Rules differ, and we did not find one official rule that covers all of them.",
+        "Have your new ID and a certified copy of your marriage certificate handy.",
+        "Ask for new cards, and update any bill that autopays from the old name."
+      ],
+      "deadline": null,
+      "source": "https://www.usa.gov/name-change",
+      "note": "The USA.gov name change page lists the agencies to notify but does not cover banks. Each bank sets its own steps.",
+      "custom": false
+    },
+    {
+      "id": "merge-finances",
+      "title": "Decide how to share your money",
+      "why": "Joint accounts change who can touch the money and how much of it is insured.",
+      "how": [
+        "Pick a setup together: yours, mine and ours, all joint, or a mix. The FDIC lists these as choices, not a rule.",
+        "On a joint account each owner can withdraw all of the money on their own.",
+        "The FDIC insures a joint account up to $250,000 per owner. An individual account at the same bank is insured separately from your joint account.",
+        "Write down which account pays which bills before you move any autopays."
+      ],
+      "deadline": null,
+      "source": "https://www.fdic.gov/consumer-resource-center/2022-07/saying-i-do-sharing-finances",
+      "custom": false
+    },
+    {
+      "id": "health-insurance",
+      "title": "Add your spouse to health insurance",
+      "why": "Getting married lets you change health coverage outside the usual open enrollment, but the window is short.",
+      "how": [
+        "Job plan: ask HR right away. The Department of Labor says to request coverage for your spouse within 30 days after you marry.",
+        "Marketplace plan: marriage is a qualifying event. You usually have 60 days from the wedding to pick a plan at healthcare.gov.",
+        "On the Marketplace, pick a plan by the last day of the month and coverage can start the first day of the next month.",
+        "You may have to send proof, like your marriage certificate."
+      ],
+      "deadline": "Job plan: 30 days after the wedding. Marketplace: 60 days after the wedding.",
+      "source": "https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/",
+      "moreSources": [
+        "https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/life-changes-require-health-choices"
+      ],
+      "custom": false
+    },
+    {
+      "id": "beneficiaries",
+      "title": "Update your beneficiaries",
+      "why": "A retirement plan pays the person named on its own beneficiary form, so the form has to be current.",
+      "how": [
+        "Tell your employer or plan administrator that you got married. The Department of Labor says to do this if you were single when you joined the plan.",
+        "In most 401(k) and similar plans, your spouse automatically receives the money if you die. To name someone else, your spouse must sign a waiver.",
+        "Check life insurance, IRAs and any account with a payable-on-death name. Each company has its own form.",
+        "Name a beneficiary for each one, and a backup."
+      ],
+      "deadline": "No set deadline. Do it in the first month.",
+      "source": "https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/retirement-plans-and-erisa",
+      "note": "The Department of Labor page covers employer retirement plans. Life insurance and IRA forms vary by company.",
+      "custom": false
+    },
+    {
+      "id": "taxes-and-filing-status",
+      "title": "Taxes: filing status and your paycheck",
+      "why": "Your marital status for the whole tax year is set on the last day of the year, and your paycheck withholding may need to change.",
+      "how": [
+        "If you are married on December 31, you are married for that whole year for taxes.",
+        "Married couples can file a joint return or file separately each year.",
+        "The name on your return must match Social Security's record, so update Social Security first.",
+        "Use the IRS Tax Withholding Estimator to check how much each paycheck should withhold. The IRS lists marriage as a reason to recheck."
+      ],
+      "deadline": "Marital status is decided on December 31 of the tax year.",
+      "source": "https://www.irs.gov/publications/p501",
+      "moreSources": [
+        "https://www.irs.gov/newsroom/marriage-means-making-changes-before-next-filing-season",
+        "https://www.irs.gov/individuals/tax-withholding-estimator"
+      ],
+      "custom": false
+    },
+    {
+      "id": "employer-payroll",
+      "title": "Update your employer and payroll",
+      "why": "Payroll uses the name and withholding on file, and a mismatch can slow your tax refund.",
+      "how": [
+        "After Social Security has your new name, give HR your new name.",
+        "Give your employer a new Form W-4. The IRS says newlyweds should do this within 10 days.",
+        "Ask HR about adding your spouse to benefits and about the beneficiary forms.",
+        "Change your address with HR if you moved. To tell the IRS, you can use Form 8822."
+      ],
+      "deadline": "A new W-4 within 10 days of the wedding, says the IRS.",
+      "source": "https://www.irs.gov/newsroom/marriage-means-making-changes-before-next-filing-season",
+      "custom": false
+    },
+    {
+      "id": "address-and-voter",
+      "title": "Update your address and voter registration",
+      "why": "Mail, tax notices and your ballot all go to the address on file.",
+      "how": [
+        "Report your new address to your local post office.",
+        "In Texas you can update your voter registration online through Texas.gov. Name and address changes work the same way.",
+        "If you own a home, tell your city or county property tax office.",
+        "Tell your state tax office if it applies to you."
+      ],
+      "deadline": null,
+      "source": "https://www.votetexas.gov/register-to-vote/index.html",
+      "moreSources": [
+        "https://www.usa.gov/name-change"
+      ],
+      "custom": false
+    },
+    {
+      "id": "thank-you-notes",
+      "title": "Send thank-you notes",
+      "why": "Guests gave you time and gifts. A note back means a lot, and a list keeps you from missing anyone.",
+      "how": [
+        "Keep a list of who gave what as gifts come in, including money.",
+        "Write a short, personal note for each one. Name the gift and say how you will use it.",
+        "Put the sender, gift and date sent in Padrino so you can see who is left."
+      ],
+      "deadline": "A common custom: within about 3 months of the wedding, and within 2 weeks for gifts that arrive after the wedding.",
+      "source": null,
+      "custom": true
+    },
+    {
+      "id": "sell-or-donate-decor",
+      "title": "Sell or donate decor and your dress",
+      "why": "Decor and a dress you will not wear again can bring money back or help someone else.",
+      "how": [
+        "List what you have: centerpieces, signs, candles, linens, the dress, shoes and veil.",
+        "Sell on a local resale group or a wedding resale site, or ask the venue or a friend who is getting married.",
+        "Donate what does not sell. Ask for a receipt.",
+        "Put what you earn back into the first-home fund in Padrino."
+      ],
+      "deadline": "A common custom: list items within a month while they still look new.",
+      "source": null,
+      "custom": true
+    }
+  ]
+}

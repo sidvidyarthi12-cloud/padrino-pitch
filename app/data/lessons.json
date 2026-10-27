@@ -1,0 +1,1904 @@
+[
+  {
+    "id": 1,
+    "text": "Set the budget from your own money and top priorities, not from what weddings supposedly cost.",
+    "problem": "Couples anchor on averages and online ideas, then overshoot or feel guilty.",
+    "category": "money",
+    "sources": 3,
+    "featureId": 1,
+    "advice": false,
+    "links": [
+      {
+        "label": "Helmstetter",
+        "url": "https://bethhelmstetter.substack.com/p/the-things-no-one-tells-you-about"
+      },
+      {
+        "label": "Ayers",
+        "url": "https://moneychangeseverything.substack.com/p/wedding-budget"
+      },
+      {
+        "label": "Hanson podcast",
+        "url": "https://podcasts.apple.com/us/podcast/better-budget-weddings/id1819803612"
+      },
+      {
+        "label": "Keene NPR (summary only)",
+        "url": "https://www.npr.org/2012/01/26/145913066/a-guide-to-an-insanity-free-practical-wedding",
+        "summaryOnly": true
+      }
+    ],
+    "sourcesNote": "+1 summary only",
+    "featureIds": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Expect to finish over budget; even finance people did (GBP 30k became about GBP 40k, $10k became $16.2k, a $5k plan became about $11k).",
+    "problem": "The first number is a guess, so it breaks.",
+    "category": "money",
+    "sources": 4,
+    "featureId": 8,
+    "advice": false,
+    "links": [
+      {
+        "label": "Your Finance Girl",
+        "url": "https://yourfinancegirl.substack.com/p/i-spent-40000-on-my-wedding-here"
+      },
+      {
+        "label": "Moorhouse",
+        "url": "https://jessicamoorhouse.com/how-much-my-wedding-cost/"
+      },
+      {
+        "label": "Williams via Fortune",
+        "url": "https://www.fortune.com/2023/12/03/salary-transparent-street-wedding-hannah-williams"
+      },
+      {
+        "label": "Sethi via NBC",
+        "url": "https://www.nbcboston.com/news/business/money-report/self-made-millionaire-ramit-sethi-heres-why-you-should-spend-a-lot-of-money-on-your-wedding/2279216/"
+      }
+    ],
+    "featureIds": [
+      5,
+      8
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Put a buffer line in the budget from day one so a surprise does not turn into debt.",
+    "problem": "With no slack, the first breach makes every later overspend feel fine.",
+    "category": "money",
+    "sources": 1,
+    "featureId": 2,
+    "advice": false,
+    "links": [
+      {
+        "label": "Your Finance Girl",
+        "url": "https://yourfinancegirl.substack.com/p/i-spent-40000-on-my-wedding-here"
+      },
+      {
+        "label": "Sethi buffer advice (summary only)",
+        "url": "https://www.cnbc.com/2024/03/13/ramit-sethi-how-to-budget-for-a-wedding-house-major-purchase.html",
+        "summaryOnly": true
+      }
+    ],
+    "sourcesNote": "+1 summary only"
+  },
+  {
+    "id": 4,
+    "text": "Work out the cost per guest (venue plus food) before you fix a venue or a headcount; one couple averaged about $250 per guest and one writer says catering can be half the budget.",
+    "problem": "Headcount quietly drives the biggest costs.",
+    "category": "money",
+    "sources": 3,
+    "featureId": 3,
+    "advice": false,
+    "links": [
+      {
+        "label": "Maroudas PMG",
+        "url": "https://pmgwealth.com/how-much-i-spent-on-my-wedding/"
+      },
+      {
+        "label": "Higgins",
+        "url": "https://whyb0ther.substack.com/p/45-planning-a-wedding-part-ii"
+      },
+      {
+        "label": "Calloway",
+        "url": "https://budgetandbouquet.com/blog/wedding-vendor-contract-red-flags"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Ask every vendor for a fully loaded quote with service charge, tax on that charge, gratuity, travel and overtime (example: $9,000 of food and drink became $11,858.40; a 24% charge plus tax added nearly $17,000 to a $50,000 catering bill).",
+    "problem": "Headline quotes leave out a big slice.",
+    "category": "vendors and contracts",
+    "sources": 3,
+    "featureId": 4,
+    "advice": false,
+    "links": [
+      {
+        "label": "Cougoule",
+        "url": "https://www.parkerpaloma.com/blog/hidden-wedding-costs-california-planner"
+      },
+      {
+        "label": "Calloway",
+        "url": "https://budgetandbouquet.com/blog/wedding-vendor-contract-red-flags"
+      },
+      {
+        "label": "Maroudas PMG",
+        "url": "https://pmgwealth.com/how-much-i-spent-on-my-wedding/"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Small items nobody budgets add up fast: license, premarital counselling, bridal party gifts, favour packaging, hair and makeup for family, cake topper, postage.",
+    "problem": "Budget templates only list the big categories.",
+    "category": "money",
+    "sources": 3,
+    "featureId": 2,
+    "advice": false,
+    "links": [
+      {
+        "label": "Moorhouse",
+        "url": "https://jessicamoorhouse.com/how-much-my-wedding-cost/"
+      },
+      {
+        "label": "Cougoule",
+        "url": "https://www.parkerpaloma.com/blog/hidden-wedding-costs-california-planner"
+      },
+      {
+        "label": "Housley",
+        "url": "https://armchaircurator.substack.com/p/wedding-debrief"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Plan dress alterations as their own cost (one planner says $500 to $1,200) and expect several fittings.",
+    "problem": "It is forgotten until after the dress is bought.",
+    "category": "money",
+    "sources": 3,
+    "featureId": 2,
+    "advice": false,
+    "links": [
+      {
+        "label": "Cougoule",
+        "url": "https://www.parkerpaloma.com/blog/hidden-wedding-costs-california-planner"
+      },
+      {
+        "label": "Philly Mag",
+        "url": "https://www.phillymag.com/2015/08/11/real-brides-budget-mistakes/"
+      },
+      {
+        "label": "Higgins",
+        "url": "https://whyb0ther.substack.com/p/45-planning-a-wedding-part-ii"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Budget about $50 to $100 per vendor for their meals, count assistants and second shooters, and ask the caterer for a vendor rate.",
+    "problem": "Contracts require meals and the vendor headcount is bigger than people think.",
+    "category": "money",
+    "sources": 1,
+    "featureId": 2,
+    "advice": false,
+    "links": [
+      {
+        "label": "Cougoule",
+        "url": "https://www.parkerpaloma.com/blog/hidden-wedding-costs-california-planner"
+      },
+      {
+        "label": "Paperlust (summary only)",
+        "url": "https://paperlust.co/blog/wedding-vendor-contract-tips/",
+        "summaryOnly": true
+      }
+    ],
+    "sourcesNote": "+1 summary only"
+  },
+  {
+    "id": 9,
+    "text": "Plan about $1.50 to $3.00 per invitation suite for postage, more for oversized or square pieces, and weigh a sample first.",
+    "problem": "Postage shock after printing.",
+    "category": "money",
+    "sources": 1,
+    "featureId": 2,
+    "advice": false,
+    "links": [
+      {
+        "label": "Cougoule",
+        "url": "https://www.parkerpaloma.com/blog/hidden-wedding-costs-california-planner"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Bringing in outside cake or wine can trigger cake-cutting fees ($2 to $5 per guest) and corkage ($15 to $50 per bottle), so check before booking the venue.",
+    "problem": "The fees live in venue fine print.",
+    "category": "vendors and contracts",
+    "sources": 2,
+    "featureId": 4,
+    "advice": false,
+    "links": [
+      {
+        "label": "Cougoule",
+        "url": "https://www.parkerpaloma.com/blog/hidden-wedding-costs-california-planner"
+      },
+      {
+        "label": "Housley",
+        "url": "https://armchaircurator.substack.com/p/wedding-debrief"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Budget tips for vendors too: one planner puts optional gratuities at $50 to $100 for core team and $20 to $50 for support staff.",
+    "problem": "Tip money appears at the end and is not in the plan.",
+    "category": "money",
+    "sources": 1,
+    "featureId": 2,
+    "advice": false,
+    "links": [
+      {
+        "label": "Cougoule",
+        "url": "https://www.parkerpaloma.com/blog/hidden-wedding-costs-california-planner"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Keep every quote, invoice and payment confirmation in one place, such as a shared inbox or a tracker.",
+    "problem": "Lost paperwork, missed payments, arguments about what was paid.",
+    "category": "money",
+    "sources": 3,
+    "featureId": 5,
+    "advice": false,
+    "links": [
+      {
+        "label": "Lebel",
+        "url": "https://thebel.substack.com/p/being-a-one-hit-wonder-wedding-planner"
+      },
+      {
+        "label": "Maroudas PMG",
+        "url": "https://pmgwealth.com/how-much-i-spent-on-my-wedding/"
+      },
+      {
+        "label": "Housley",
+        "url": "https://armchaircurator.substack.com/p/wedding-debrief"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "The venue is the biggest money decision, so pick it first because most other costs follow from it (44% of the total in two itemized weddings for venue and food, about 70% and about half in two others).",
+    "problem": "The venue sets date, headcount and what else you must rent.",
+    "category": "money",
+    "sources": 5,
+    "featureId": 2,
+    "advice": false,
+    "links": [
+      {
+        "label": "Housley",
+        "url": "https://armchaircurator.substack.com/p/wedding-debrief"
+      },
+      {
+        "label": "Hayse",
+        "url": "https://themamamarketer.com/blog/updated-tips-for-an-affordable-wedding"
+      },
+      {
+        "label": "Higgins",
+        "url": "https://whyb0ther.substack.com/p/45-planning-a-wedding-part-ii"
+      },
+      {
+        "label": "Maroudas PMG",
+        "url": "https://pmgwealth.com/how-much-i-spent-on-my-wedding/"
+      },
+      {
+        "label": "Moorhouse",
+        "url": "https://jessicamoorhouse.com/how-much-my-wedding-cost/"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Compare venues on total cost, not the rental fee; an empty outdoor venue means renting restrooms, kitchen gear, valets and security, while an all-in venue can be cheaper overall.",
+    "problem": "The fee looks low and the rentals are invisible.",
+    "category": "vendors and contracts",
+    "sources": 2,
+    "featureId": 4,
+    "advice": false,
+    "links": [
+      {
+        "label": "Higgins",
+        "url": "https://whyb0ther.substack.com/p/45-planning-a-wedding-part-ii"
+      },
+      {
+        "label": "Housley",
+        "url": "https://armchaircurator.substack.com/p/wedding-debrief"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Package or destination pricing can cut the per-guest cost, but flights and lodging sit outside the package (one resort wedding: $16,850 for up to 80 guests, about $4,000 more for the couple's trip, and the author guesses Chicago would cost about 4x).",
+    "problem": "Travel is a second budget nobody tracks.",
+    "category": "money",
+    "sources": 1,
+    "featureId": 2,
+    "advice": false,
+    "links": [
+      {
+        "label": "Maroudas PMG",
+        "url": "https://pmgwealth.com/how-much-i-spent-on-my-wedding/"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Local prices matter, so national averages mislead (the same money buys far less in San Francisco than in a smaller city).",
+    "problem": "Couples plan from an average that does not fit their city.",
+    "category": "money",
+    "sources": 1,
+    "featureId": 2,
+    "advice": false,
+    "links": [
+      {
+        "label": "Maroudas PMG",
+        "url": "https://pmgwealth.com/how-much-i-spent-on-my-wedding/"
+      },
+      {
+        "label": "Keene (summary only)",
+        "url": "https://www.aol.com/2013-07-25-dream-wedding-practical-budget.html",
+        "summaryOnly": true
+      }
+    ],
+    "sourcesNote": "+1 summary only"
+  },
+  {
+    "id": 17,
+    "text": "Each partner should rank wedding elements on their own (one author used about 15), compare, and fund the top three first.",
+    "problem": "Couples spread money evenly and fight later.",
+    "category": "money",
+    "sources": 3,
+    "featureId": 1,
+    "advice": false,
+    "links": [
+      {
+        "label": "Ayers",
+        "url": "https://moneychangeseverything.substack.com/p/wedding-budget"
+      },
+      {
+        "label": "ALTARE",
+        "url": "https://altare.substack.com/p/the-best-weddings-are-not-the-most"
+      },
+      {
+        "label": "Frost",
+        "url": "https://platonicloveletter.substack.com/p/issue-39-wedding-planning-tips-from"
+      },
+      {
+        "label": "Keene \"pick one thing\" (summary only)",
+        "url": "https://www.npr.org/2012/01/26/145913066/a-guide-to-an-insanity-free-practical-wedding",
+        "summaryOnly": true
+      },
+      {
+        "label": "AOL",
+        "url": "https://www.aol.com/2013-07-25-dream-wedding-practical-budget.html"
+      }
+    ],
+    "sourcesNote": "+1 summary only"
+  },
+  {
+    "id": 18,
+    "text": "Test every extra against the top priorities, and if it does not serve one, shrink it or drop it.",
+    "problem": "Budget creep through small yeses.",
+    "category": "money",
+    "sources": 3,
+    "featureId": 1,
+    "advice": false,
+    "links": [
+      {
+        "label": "ALTARE",
+        "url": "https://altare.substack.com/p/the-best-weddings-are-not-the-most"
+      },
+      {
+        "label": "Housley",
+        "url": "https://armchaircurator.substack.com/p/wedding-debrief"
+      },
+      {
+        "label": "Hanson podcast",
+        "url": "https://podcasts.apple.com/us/podcast/better-budget-weddings/id1819803612"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Do not spread money thin; a little on everything leaves nothing great, so protect the priority lines when costs rise.",
+    "problem": "Cuts land on the wrong lines.",
+    "category": "money",
+    "sources": 2,
+    "featureId": 1,
+    "advice": false,
+    "links": [
+      {
+        "label": "ALTARE",
+        "url": "https://altare.substack.com/p/the-best-weddings-are-not-the-most"
+      },
+      {
+        "label": "Williams via Fortune",
+        "url": "https://www.fortune.com/2023/12/03/salary-transparent-street-wedding-hannah-williams"
+      }
+    ],
+    "featureIds": [
+      1,
+      8
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Do not go into debt for the wedding.",
+    "problem": "Starting marriage with debt.",
+    "category": "money",
+    "sources": 5,
+    "featureId": 6,
+    "advice": false,
+    "links": [
+      {
+        "label": "Helmstetter",
+        "url": "https://bethhelmstetter.substack.com/p/the-things-no-one-tells-you-about"
+      },
+      {
+        "label": "Ayers",
+        "url": "https://moneychangeseverything.substack.com/p/wedding-budget"
+      },
+      {
+        "label": "Your Finance Girl",
+        "url": "https://yourfinancegirl.substack.com/p/i-spent-40000-on-my-wedding-here"
+      },
+      {
+        "label": "Hanson podcast",
+        "url": "https://podcasts.apple.com/us/podcast/better-budget-weddings/id1819803612"
+      },
+      {
+        "label": "Housley",
+        "url": "https://armchaircurator.substack.com/p/wedding-debrief"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Open a dedicated wedding savings account with automatic deposits, years ahead if you can (Sethi started at 24, before he met his wife).",
+    "problem": "Wedding money gets mixed into daily spending.",
+    "category": "money",
+    "sources": 1,
+    "featureId": 6,
+    "advice": false,
+    "links": [
+      {
+        "label": "Sethi via NBC",
+        "url": "https://www.nbcboston.com/news/business/money-report/self-made-millionaire-ramit-sethi-heres-why-you-should-spend-a-lot-of-money-on-your-wedding/2279216/"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "One blogger's rule of thumb: keep the wedding under about 10% of combined household income, or about $1,000 for each year the couple has known each other (treat as one opinion).",
+    "problem": "No simple sanity check for a budget number.",
+    "category": "money",
+    "sources": 1,
+    "featureId": 2,
+    "advice": false,
+    "links": [
+      {
+        "label": "Financial Samurai",
+        "url": "https://www.financialsamurai.com/wedding-spending-rules-to-follow-if-you-dont-want-to-end-up-broke-and-alone/"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "\"Wedding tax\" is real: ordinary items cost more once they are labelled wedding.",
+    "problem": "Couples pay a markup without noticing.",
+    "category": "money",
+    "sources": 1,
+    "featureId": 2,
+    "advice": false,
+    "links": [
+      {
+        "label": "Your Finance Girl",
+        "url": "https://yourfinancegirl.substack.com/p/i-spent-40000-on-my-wedding-here"
+      }
+    ],
+    "featureIds": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": 24,
+    "text": "The \"three months of salary\" ring idea is marketing, so set your own ring number (one used moissanite at about $2,000 against a roughly $6,000 average; another thinks matching bands can be under $100). One photographer lists rings as worth the money.",
+    "problem": "Pressure to spend on a ring.",
+    "category": "money",
+    "sources": 3,
+    "featureId": null,
+    "advice": true,
+    "links": [
+      {
+        "label": "Ayers",
+        "url": "https://moneychangeseverything.substack.com/p/wedding-budget"
+      },
+      {
+        "label": "Maroudas PMG",
+        "url": "https://pmgwealth.com/how-much-i-spent-on-my-wedding/"
+      },
+      {
+        "label": "Williams via Fortune",
+        "url": "https://www.fortune.com/2023/12/03/salary-transparent-street-wedding-hannah-williams"
+      },
+      {
+        "label": "Craner",
+        "url": "https://www.andrewcraner.com/top-8-items-couples-regret-spending-their-wedding-budget-on/",
+        "note": "Disagrees"
+      }
+    ],
+    "sourcesNote": "+1 disagrees",
+    "adviceTopic": "ring pressure"
+  },
+  {
+    "id": 25,
+    "text": "Add the engagement ring to renters or home insurance, since renters policies often cover little jewelry.",
+    "problem": "Ring theft or loss not covered.",
+    "category": "money",
+    "sources": 1,
+    "featureId": null,
+    "advice": true,
+    "links": [
+      {
+        "label": "Ayers",
+        "url": "https://moneychangeseverything.substack.com/p/wedding-budget"
+      }
+    ],
+    "adviceTopic": "insure the ring"
+  },
+  {
+    "id": 26,
+    "text": "Treat cash gifts as a bonus, not as funding (this couple's guests gave about $100 to $200 each).",
+    "problem": "Gifts arrive after the bills are due.",
+    "category": "money",
+    "sources": 1,
+    "featureId": 6,
+    "advice": false,
+    "links": [
+      {
+        "label": "Moorhouse",
+        "url": "https://jessicamoorhouse.com/how-much-my-wedding-cost/"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Much of a vendor's price is hidden labor, and vendors often undercharge for their hours; a good planner shows what a vision costs and what fits, and the couple changes the vision, the spend, or both.",
+    "problem": "Sticker shock and haggling.",
+    "category": "money",
+    "sources": 1,
+    "featureId": null,
+    "advice": true,
+    "links": [
+      {
+        "label": "Helmstetter",
+        "url": "https://bethhelmstetter.substack.com/p/the-things-no-one-tells-you-about"
+      }
+    ],
+    "adviceTopic": "vendor labor"
+  },
+  {
+    "id": 28,
+    "text": "Protect the honeymoon line; a photographer lists it as worth the money, and one couple traded cheaper chairs for a better honeymoon hotel.",
+    "problem": "The honeymoon gets raided to cover overruns.",
+    "category": "regrets",
+    "sources": 2,
+    "featureId": 2,
+    "advice": false,
+    "links": [
+      {
+        "label": "Craner",
+        "url": "https://www.andrewcraner.com/top-8-items-couples-regret-spending-their-wedding-budget-on/"
+      },
+      {
+        "label": "Ayers",
+        "url": "https://moneychangeseverything.substack.com/p/wedding-budget"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Read each proposal line by line, because extras like day-of coordination can be bundled in, or missing.",
+    "problem": "Couples assume what is included.",
+    "category": "vendors and contracts",
+    "sources": 2,
+    "featureId": 4,
+    "advice": false,
+    "links": [
+      {
+        "label": "Higgins",
+        "url": "https://whyb0ther.substack.com/p/45-planning-a-wedding-part-ii"
+      },
+      {
+        "label": "Calloway",
+        "url": "https://budgetandbouquet.com/blog/wedding-vendor-contract-red-flags"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Replace vague words like \"premium\" with numbers: hours, staff, formats, revisions and exclusions.",
+    "problem": "Disputes about what was promised.",
+    "category": "vendors and contracts",
+    "sources": 1,
+    "featureId": 4,
+    "advice": false,
+    "links": [
+      {
+        "label": "Calloway",
+        "url": "https://budgetandbouquet.com/blog/wedding-vendor-contract-red-flags"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Learn the cancellation schedule and your real exposure at each date, not just the deposit (example: $4,800 contract, $960 paid, cancel 90 days out with 50% owed means $2,400 at risk).",
+    "problem": "\"Nonrefundable deposit\" hides the larger bill.",
+    "category": "vendors and contracts",
+    "sources": 1,
+    "featureId": 9,
+    "advice": false,
+    "links": [
+      {
+        "label": "Calloway",
+        "url": "https://budgetandbouquet.com/blog/wedding-vendor-contract-red-flags"
+      },
+      {
+        "label": "Paperlust (summary only)",
+        "url": "https://paperlust.co/blog/wedding-vendor-contract-tips/",
+        "summaryOnly": true
+      },
+      {
+        "label": "Pix (summary only)",
+        "url": "https://www.pix.wedding/wedding-vendor-deposits-refundable-vs-nonrefundable",
+        "summaryOnly": true
+      }
+    ],
+    "sourcesNote": "+2 summary only, both commercial sites"
+  },
+  {
+    "id": 32,
+    "text": "Deposits lock you in: once money is paid, couples stay with a plan that has grown (one couple budgeted $12,000 and spent about $25,000).",
+    "problem": "Sunk-cost trap from the first deposit.",
+    "category": "vendors and contracts",
+    "sources": 0,
+    "featureId": 9,
+    "advice": false,
+    "links": [
+      {
+        "label": "Keene, as reported in AOL",
+        "url": "https://www.aol.com/2013-07-25-dream-wedding-practical-budget.html",
+        "summaryOnly": true
+      }
+    ],
+    "sourcesNote": "1 summary only"
+  },
+  {
+    "id": 33,
+    "text": "Ask what happens if the vendor cancels, goes out of business, or swaps the person you hired.",
+    "problem": "Contracts spell out your duties and say little about theirs.",
+    "category": "vendors and contracts",
+    "sources": 1,
+    "featureId": 9,
+    "advice": false,
+    "links": [
+      {
+        "label": "Calloway",
+        "url": "https://budgetandbouquet.com/blog/wedding-vendor-contract-red-flags"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Check whether moving the date counts as cancelling, and whether force majeure protects you or only the vendor.",
+    "problem": "A postponement can cost as much as a cancellation.",
+    "category": "vendors and contracts",
+    "sources": 1,
+    "featureId": 9,
+    "advice": false,
+    "links": [
+      {
+        "label": "Calloway",
+        "url": "https://budgetandbouquet.com/blog/wedding-vendor-contract-red-flags"
+      },
+      {
+        "label": "Paperlust (summary only)",
+        "url": "https://paperlust.co/blog/wedding-vendor-contract-tips/",
+        "summaryOnly": true
+      }
+    ],
+    "sourcesNote": "+1 summary only"
+  },
+  {
+    "id": 35,
+    "text": "Get every change in writing as a change order showing old scope, new scope, price difference and the new total.",
+    "problem": "Verbal changes get disputed.",
+    "category": "vendors and contracts",
+    "sources": 1,
+    "featureId": 9,
+    "advice": false,
+    "links": [
+      {
+        "label": "Calloway",
+        "url": "https://budgetandbouquet.com/blog/wedding-vendor-contract-red-flags"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "text": "A guaranteed headcount sets the bill, so you pay for no-shows (120 guests at $90 is $10,800 even if 112 come).",
+    "problem": "The invited number is not the billed number.",
+    "category": "vendors and contracts",
+    "sources": 1,
+    "featureId": 3,
+    "advice": false,
+    "links": [
+      {
+        "label": "Calloway",
+        "url": "https://budgetandbouquet.com/blog/wedding-vendor-contract-red-flags"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "text": "If a vendor emails new bank details, confirm them by phone using a number you already had.",
+    "problem": "Payment fraud near a due date.",
+    "category": "money",
+    "sources": 1,
+    "featureId": 5,
+    "advice": false,
+    "links": [
+      {
+        "label": "Calloway",
+        "url": "https://budgetandbouquet.com/blog/wedding-vendor-contract-red-flags"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "text": "Check photo usage rights, portfolio use and how guest data is handled in contracts.",
+    "problem": "Fine print on image and data rights.",
+    "category": "vendors and contracts",
+    "sources": 1,
+    "featureId": 9,
+    "advice": false,
+    "links": [
+      {
+        "label": "Calloway",
+        "url": "https://budgetandbouquet.com/blog/wedding-vendor-contract-red-flags"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "text": "Ask venue questions before signing (one podcast lists ten): hidden fees, catering, alcohol and outside-vendor limits, sound rules, restroom counts.",
+    "problem": "Venues hide limits that cost money later.",
+    "category": "vendors and contracts",
+    "sources": 3,
+    "featureId": 4,
+    "advice": false,
+    "links": [
+      {
+        "label": "Hanson podcast",
+        "url": "https://podcasts.apple.com/us/podcast/better-budget-weddings/id1819803612"
+      },
+      {
+        "label": "Higgins",
+        "url": "https://whyb0ther.substack.com/p/45-planning-a-wedding-part-ii"
+      },
+      {
+        "label": "Cougoule",
+        "url": "https://www.parkerpaloma.com/blog/hidden-wedding-costs-california-planner"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "text": "Collect 10 to 15 quotes in one place and do not book the first vendor you talk to.",
+    "problem": "Booking fast, then finding cheaper or better.",
+    "category": "vendors and contracts",
+    "sources": 2,
+    "featureId": 10,
+    "advice": false,
+    "links": [
+      {
+        "label": "Maroudas PMG",
+        "url": "https://pmgwealth.com/how-much-i-spent-on-my-wedding/"
+      },
+      {
+        "label": "Philly Mag",
+        "url": "https://www.phillymag.com/2015/08/11/real-brides-budget-mistakes/"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "text": "Choose vendors who are easy to work with, because you will lean on them when overwhelmed.",
+    "problem": "A great portfolio but a hard person.",
+    "category": "vendors and contracts",
+    "sources": 2,
+    "featureId": 10,
+    "advice": false,
+    "links": [
+      {
+        "label": "Higgins",
+        "url": "https://whyb0ther.substack.com/p/45-planning-a-wedding-part-ii"
+      },
+      {
+        "label": "Frost",
+        "url": "https://platonicloveletter.substack.com/p/issue-39-wedding-planning-tips-from"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "text": "Vet planners and vendors for fit with your relationship, for example asking whether they have worked with queer and straight couples.",
+    "problem": "Generic vendors who address only the bride.",
+    "category": "vendors and contracts",
+    "sources": 1,
+    "featureId": null,
+    "advice": true,
+    "links": [
+      {
+        "label": "Frost",
+        "url": "https://platonicloveletter.substack.com/p/issue-39-wedding-planning-tips-from"
+      }
+    ],
+    "adviceTopic": "vendor fit"
+  },
+  {
+    "id": 43,
+    "text": "Use a vendor red-flag checklist, especially for cheaper vendors, and do not hire from a nice Instagram reel alone.",
+    "problem": "Low price hiding poor reliability.",
+    "category": "vendors and contracts",
+    "sources": 1,
+    "featureId": 10,
+    "advice": false,
+    "links": [
+      {
+        "label": "Hanson podcast",
+        "url": "https://podcasts.apple.com/us/podcast/better-budget-weddings/id1819803612"
+      },
+      {
+        "label": "Vice planners (summary only)",
+        "url": "https://www.vice.com/en/article/6-things-wedding-planners-say-youre-wasting-money-on/",
+        "summaryOnly": true
+      }
+    ],
+    "sourcesNote": "+1 summary only"
+  },
+  {
+    "id": 44,
+    "text": "Join online groups for your venue to learn real costs and tips (one couple's venue Facebook group was a major resource).",
+    "problem": "No honest price info from venues.",
+    "category": "vendors and contracts",
+    "sources": 1,
+    "featureId": 10,
+    "advice": false,
+    "links": [
+      {
+        "label": "Maroudas PMG",
+        "url": "https://pmgwealth.com/how-much-i-spent-on-my-wedding/"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "text": "Hire local vendors to avoid travel and lodging fees (a London photographer's travel plus a premium added cost for one couple).",
+    "problem": "Travel fees buried in quotes.",
+    "category": "vendors and contracts",
+    "sources": 2,
+    "featureId": 4,
+    "advice": false,
+    "links": [
+      {
+        "label": "Higgins",
+        "url": "https://whyb0ther.substack.com/p/45-planning-a-wedding-part-ii"
+      },
+      {
+        "label": "Your Finance Girl",
+        "url": "https://yourfinancegirl.substack.com/p/i-spent-40000-on-my-wedding-here"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "text": "Ask rental companies in advance who sets up, and check whether rigging or other add-ons need a separate vendor with clear instructions.",
+    "problem": "Items left on a lawn, extra labor fees, a poorly hung chandelier.",
+    "category": "vendors and contracts",
+    "sources": 1,
+    "featureId": 4,
+    "advice": false,
+    "links": [
+      {
+        "label": "Higgins",
+        "url": "https://whyb0ther.substack.com/p/45-planning-a-wedding-part-ii"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "text": "Know where markups and scams hide (dress, catering, flowers, photography, invitations); the book is built around consumer awareness.",
+    "problem": "Couples do not know normal pricing.",
+    "category": "vendors and contracts",
+    "sources": 1,
+    "featureId": 4,
+    "advice": false,
+    "links": [
+      {
+        "label": "Bridal Bargains on Goodreads",
+        "url": "https://www.goodreads.com/book/show/9467326"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "text": "A day-of coordinator costs less than full planning and is where most of the value is; one photographer says couples who stay present usually had one.",
+    "problem": "Couples end up running their own wedding.",
+    "category": "vendors and contracts",
+    "sources": 3,
+    "featureId": null,
+    "advice": true,
+    "links": [
+      {
+        "label": "Lebel",
+        "url": "https://thebel.substack.com/p/being-a-one-hit-wonder-wedding-planner"
+      },
+      {
+        "label": "Frost",
+        "url": "https://platonicloveletter.substack.com/p/issue-39-wedding-planning-tips-from"
+      },
+      {
+        "label": "Higgins",
+        "url": "https://whyb0ther.substack.com/p/45-planning-a-wedding-part-ii"
+      }
+    ],
+    "adviceTopic": "day-of coordinator"
+  },
+  {
+    "id": 49,
+    "text": "Cutting the guest list is the most effective way to lower the cost.",
+    "problem": "Per-head costs multiply everything.",
+    "category": "guests",
+    "sources": 5,
+    "featureId": 3,
+    "advice": false,
+    "links": [
+      {
+        "label": "Ayers",
+        "url": "https://moneychangeseverything.substack.com/p/wedding-budget"
+      },
+      {
+        "label": "Hanson podcast",
+        "url": "https://podcasts.apple.com/us/podcast/better-budget-weddings/id1819803612"
+      },
+      {
+        "label": "Higgins",
+        "url": "https://whyb0ther.substack.com/p/45-planning-a-wedding-part-ii"
+      },
+      {
+        "label": "ALTARE",
+        "url": "https://altare.substack.com/p/the-best-weddings-are-not-the-most"
+      },
+      {
+        "label": "Maroudas PMG",
+        "url": "https://pmgwealth.com/how-much-i-spent-on-my-wedding/"
+      }
+    ],
+    "featureIds": [
+      3,
+      8
+    ]
+  },
+  {
+    "id": 50,
+    "text": "Guest counts creep up (one couple planned 80 to 100 and ended at 105).",
+    "problem": "The list grows after budgets are set.",
+    "category": "guests",
+    "sources": 1,
+    "featureId": 3,
+    "advice": false,
+    "links": [
+      {
+        "label": "Higgins",
+        "url": "https://whyb0ther.substack.com/p/45-planning-a-wedding-part-ii"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "text": "Match list size to your values: a guest-focused couple keeps it large and picks a venue that fits everyone, an intimacy-focused couple keeps it tiny.",
+    "problem": "A list built by obligation, not intention.",
+    "category": "guests",
+    "sources": 2,
+    "featureId": 3,
+    "advice": false,
+    "links": [
+      {
+        "label": "ALTARE",
+        "url": "https://altare.substack.com/p/the-best-weddings-are-not-the-most"
+      },
+      {
+        "label": "Housley",
+        "url": "https://armchaircurator.substack.com/p/wedding-debrief"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "text": "Relatives who need flights or help add cost, and both families' needs shape the budget.",
+    "problem": "Travel help is not in the plan.",
+    "category": "guests",
+    "sources": 1,
+    "featureId": 3,
+    "advice": false,
+    "links": [
+      {
+        "label": "Sethi via NBC",
+        "url": "https://www.nbcboston.com/news/business/money-report/self-made-millionaire-ramit-sethi-heres-why-you-should-spend-a-lot-of-money-on-your-wedding/2279216/"
+      }
+    ],
+    "featureIds": [
+      3,
+      7
+    ]
+  },
+  {
+    "id": 53,
+    "text": "Wedding party events cost friends real money (one hen do ran GBP 200 to 250 per guest) and some friends decline for money reasons.",
+    "problem": "Friends quietly priced out.",
+    "category": "guests",
+    "sources": 1,
+    "featureId": null,
+    "advice": true,
+    "links": [
+      {
+        "label": "Your Finance Girl",
+        "url": "https://yourfinancegirl.substack.com/p/i-spent-40000-on-my-wedding-here"
+      }
+    ],
+    "adviceTopic": "wedding party costs for friends"
+  },
+  {
+    "id": 54,
+    "text": "Offer water and a non-alcoholic option; guests get dehydrated.",
+    "problem": "Easy to forget in drink planning.",
+    "category": "guests",
+    "sources": 1,
+    "featureId": null,
+    "advice": true,
+    "links": [
+      {
+        "label": "Housley",
+        "url": "https://armchaircurator.substack.com/p/wedding-debrief"
+      }
+    ],
+    "adviceTopic": "water for guests"
+  },
+  {
+    "id": 55,
+    "text": "Whoever pays may expect a say in planning and the guest list, so decide how to handle family money before you accept it.",
+    "problem": "Strings attached to a parent's check.",
+    "category": "family",
+    "sources": 3,
+    "featureId": 7,
+    "advice": false,
+    "links": [
+      {
+        "label": "Ayers",
+        "url": "https://moneychangeseverything.substack.com/p/wedding-budget"
+      },
+      {
+        "label": "Your Finance Girl",
+        "url": "https://yourfinancegirl.substack.com/p/i-spent-40000-on-my-wedding-here"
+      },
+      {
+        "label": "Financial Samurai",
+        "url": "https://www.financialsamurai.com/wedding-spending-rules-to-follow-if-you-dont-want-to-end-up-broke-and-alone/"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "text": "Paying for it yourselves keeps control of the guest list and the plan.",
+    "problem": "Loss of control when others fund it.",
+    "category": "family",
+    "sources": 2,
+    "featureId": 7,
+    "advice": false,
+    "links": [
+      {
+        "label": "Your Finance Girl",
+        "url": "https://yourfinancegirl.substack.com/p/i-spent-40000-on-my-wedding-here"
+      },
+      {
+        "label": "Moorhouse",
+        "url": "https://jessicamoorhouse.com/how-much-my-wedding-cost/"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "text": "When one side's guest list is much longer and parents are paying, agree the split rules early.",
+    "problem": "Fights over whose guests count.",
+    "category": "family",
+    "sources": 2,
+    "featureId": 7,
+    "advice": false,
+    "links": [
+      {
+        "label": "Adams podcast ep 114",
+        "url": "https://podcasts.apple.com/us/podcast/114-l-wedding-budgets-awkward-money-conversations/id1458431820?i=1000630665507"
+      },
+      {
+        "label": "Ayers",
+        "url": "https://moneychangeseverything.substack.com/p/wedding-budget"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "text": "Count in-kind help from family (a parent buying the dress, a parent designing invitations) as part of the real budget.",
+    "problem": "The wedding looks cheaper than it was.",
+    "category": "family",
+    "sources": 1,
+    "featureId": 2,
+    "advice": false,
+    "links": [
+      {
+        "label": "Moorhouse",
+        "url": "https://jessicamoorhouse.com/how-much-my-wedding-cost/"
+      }
+    ],
+    "featureIds": [
+      2,
+      7
+    ]
+  },
+  {
+    "id": 59,
+    "text": "Give relatives clear day-of jobs (take decor home, pack leftover drinks, make sure vendors arrive), and know that a family member in a key role can slip (a brother DJ played the wrong first-dance song).",
+    "problem": "Couple ends up doing cleanup, or a favor goes wrong.",
+    "category": "family",
+    "sources": 2,
+    "featureId": null,
+    "advice": true,
+    "links": [
+      {
+        "label": "Lebel",
+        "url": "https://thebel.substack.com/p/being-a-one-hit-wonder-wedding-planner"
+      },
+      {
+        "label": "Housley",
+        "url": "https://armchaircurator.substack.com/p/wedding-debrief"
+      }
+    ],
+    "adviceTopic": "day-of jobs and timeline"
+  },
+  {
+    "id": 60,
+    "text": "Have the money talk (debt, combined accounts, spending attitudes) before choosing a venue or a dress.",
+    "problem": "Money values clash after big commitments.",
+    "category": "stress",
+    "sources": 2,
+    "featureId": 13,
+    "advice": false,
+    "links": [
+      {
+        "label": "Ayers",
+        "url": "https://moneychangeseverything.substack.com/p/wedding-budget"
+      },
+      {
+        "label": "Adams podcast ep 114",
+        "url": "https://podcasts.apple.com/us/podcast/114-l-wedding-budgets-awkward-money-conversations/id1458431820?i=1000630665507"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "text": "Split planning tasks evenly so neither partner resents it.",
+    "problem": "One partner ends up doing it all.",
+    "category": "stress",
+    "sources": 1,
+    "featureId": 13,
+    "advice": false,
+    "links": [
+      {
+        "label": "Frost",
+        "url": "https://platonicloveletter.substack.com/p/issue-39-wedding-planning-tips-from"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "text": "Comparing to other weddings pushes spending, whether friends at $30,000 to $80,000 or Pinterest \"real weddings\" that are really styled shoots.",
+    "problem": "Social proof inflates budgets.",
+    "category": "stress",
+    "sources": 3,
+    "featureId": 1,
+    "advice": false,
+    "links": [
+      {
+        "label": "Maroudas PMG",
+        "url": "https://pmgwealth.com/how-much-i-spent-on-my-wedding/"
+      },
+      {
+        "label": "Adams podcast ep 114",
+        "url": "https://podcasts.apple.com/us/podcast/114-l-wedding-budgets-awkward-money-conversations/id1458431820?i=1000630665507"
+      },
+      {
+        "label": "Hanson podcast",
+        "url": "https://podcasts.apple.com/us/podcast/better-budget-weddings/id1819803612"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "text": "A wedding will not fix a partner's money habits or existing problems.",
+    "problem": "Hoping the day changes behavior.",
+    "category": "stress",
+    "sources": 1,
+    "featureId": 13,
+    "advice": false,
+    "links": [
+      {
+        "label": "Ayers",
+        "url": "https://moneychangeseverything.substack.com/p/wedding-budget"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "text": "A prenup is a clarifying step, not an insult, especially with a business or an expected inheritance.",
+    "problem": "Avoided because it feels awkward.",
+    "category": "family",
+    "sources": 1,
+    "featureId": 13,
+    "advice": false,
+    "links": [
+      {
+        "label": "Ayers",
+        "url": "https://moneychangeseverything.substack.com/p/wedding-budget"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "text": "Expect surprises (rain, late vendors, cancellations), have a backup, and price it; the few couples who said they overspent mostly did so for weather or heat backups.",
+    "problem": "No Plan B and no money for one.",
+    "category": "stress",
+    "sources": 3,
+    "featureId": 14,
+    "advice": false,
+    "links": [
+      {
+        "label": "Helmstetter",
+        "url": "https://bethhelmstetter.substack.com/p/the-things-no-one-tells-you-about"
+      },
+      {
+        "label": "Lebel",
+        "url": "https://thebel.substack.com/p/being-a-one-hit-wonder-wedding-planner"
+      },
+      {
+        "label": "Housley",
+        "url": "https://armchaircurator.substack.com/p/wedding-debrief"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "text": "A simpler day could have felt as special; fiddly details (table numbers, name cards, favours, invitations) took a lot of time for little effect.",
+    "problem": "Time and money lost on invisible details.",
+    "category": "stress",
+    "sources": 2,
+    "featureId": null,
+    "advice": true,
+    "links": [
+      {
+        "label": "Housley",
+        "url": "https://armchaircurator.substack.com/p/wedding-debrief"
+      },
+      {
+        "label": "Maroudas PMG",
+        "url": "https://pmgwealth.com/how-much-i-spent-on-my-wedding/"
+      }
+    ],
+    "adviceTopic": "simpler day"
+  },
+  {
+    "id": 67,
+    "text": "A long engagement means a never-ending to-do list; one person says she would choose nine months over eighteen.",
+    "problem": "Decision fatigue.",
+    "category": "stress",
+    "sources": 1,
+    "featureId": 11,
+    "advice": false,
+    "links": [
+      {
+        "label": "Frost",
+        "url": "https://platonicloveletter.substack.com/p/issue-39-wedding-planning-tips-from"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "text": "Book popular caterers and venues early (a caterer was booked about 18 months out; Cape Cod estates up to two years).",
+    "problem": "Dates go fast and popular vendors fill.",
+    "category": "timeline and payments",
+    "sources": 2,
+    "featureId": 11,
+    "advice": false,
+    "links": [
+      {
+        "label": "Lebel",
+        "url": "https://thebel.substack.com/p/being-a-one-hit-wonder-wedding-planner"
+      },
+      {
+        "label": "Higgins",
+        "url": "https://whyb0ther.substack.com/p/45-planning-a-wedding-part-ii"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "text": "Book the vendors for your top priorities first and protect their funding when costs rise.",
+    "problem": "Priority vendors get squeezed by late bookings.",
+    "category": "timeline and payments",
+    "sources": 1,
+    "featureId": 1,
+    "advice": false,
+    "links": [
+      {
+        "label": "ALTARE",
+        "url": "https://altare.substack.com/p/the-best-weddings-are-not-the-most"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "text": "Everything takes at least twice as long as planned, so start DIY projects, vows, playlists and place cards earlier (one writer wrote place cards until 2am and vows two to three days out).",
+    "problem": "Last-minute crunch the week of.",
+    "category": "timeline and payments",
+    "sources": 2,
+    "featureId": 11,
+    "advice": false,
+    "links": [
+      {
+        "label": "Higgins",
+        "url": "https://whyb0ther.substack.com/p/45-planning-a-wedding-part-ii"
+      },
+      {
+        "label": "Housley",
+        "url": "https://armchaircurator.substack.com/p/wedding-debrief"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "text": "Dress shopping and alterations need lead time and several appointments (three for the main dress, one more for a second look, in one case).",
+    "problem": "Dress timeline slips.",
+    "category": "timeline and payments",
+    "sources": 2,
+    "featureId": 11,
+    "advice": false,
+    "links": [
+      {
+        "label": "Higgins",
+        "url": "https://whyb0ther.substack.com/p/45-planning-a-wedding-part-ii"
+      },
+      {
+        "label": "Cougoule",
+        "url": "https://www.parkerpaloma.com/blog/hidden-wedding-costs-california-planner"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "text": "Map cumulative payments by date and tie each to a milestone; in one example 90% was paid before the event once the 30-day instalment was in.",
+    "problem": "Money out long before service delivered.",
+    "category": "timeline and payments",
+    "sources": 2,
+    "featureId": 5,
+    "advice": false,
+    "links": [
+      {
+        "label": "Calloway",
+        "url": "https://budgetandbouquet.com/blog/wedding-vendor-contract-red-flags"
+      },
+      {
+        "label": "Lebel",
+        "url": "https://thebel.substack.com/p/being-a-one-hit-wonder-wedding-planner"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "text": "Share the master timeline with every vendor, and have the DJ or day-of planner run it.",
+    "problem": "Vendors do not know the schedule.",
+    "category": "timeline and payments",
+    "sources": 1,
+    "featureId": null,
+    "advice": true,
+    "links": [
+      {
+        "label": "Lebel",
+        "url": "https://thebel.substack.com/p/being-a-one-hit-wonder-wedding-planner"
+      }
+    ],
+    "adviceTopic": "day-of jobs and timeline"
+  },
+  {
+    "id": 74,
+    "text": "Send invitations early for travel-heavy events (one couple sent wedding invites 12 months out and hen do invites 9 months out).",
+    "problem": "Guests cannot plan travel or money.",
+    "category": "timeline and payments",
+    "sources": 1,
+    "featureId": 11,
+    "advice": false,
+    "links": [
+      {
+        "label": "Your Finance Girl",
+        "url": "https://yourfinancegirl.substack.com/p/i-spent-40000-on-my-wedding-here"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "text": "Cheap photography often costs twice (\"buy cheap, buy twice\"): one couple paid a 25% cancellation fee, then a premium replacement; others say photography is where cutting is regretted.",
+    "problem": "Weak photos cannot be redone.",
+    "category": "regrets",
+    "sources": 3,
+    "featureId": 8,
+    "advice": false,
+    "links": [
+      {
+        "label": "Your Finance Girl",
+        "url": "https://yourfinancegirl.substack.com/p/i-spent-40000-on-my-wedding-here"
+      },
+      {
+        "label": "Craner",
+        "url": "https://www.andrewcraner.com/top-8-items-couples-regret-spending-their-wedding-budget-on/"
+      },
+      {
+        "label": "Helmstetter",
+        "url": "https://bethhelmstetter.substack.com/p/the-things-no-one-tells-you-about"
+      },
+      {
+        "label": "Higgins",
+        "url": "https://whyb0ther.substack.com/p/45-planning-a-wedding-part-ii",
+        "note": "Related: says photographers should be paid fairly, not negotiated down"
+      }
+    ],
+    "sourcesNote": "+1 related"
+  },
+  {
+    "id": 76,
+    "text": "Do not skimp on music: a DJ or live band was called worth it, and shortened music was a named regret.",
+    "problem": "The party depends on it.",
+    "category": "regrets",
+    "sources": 3,
+    "featureId": 8,
+    "advice": false,
+    "links": [
+      {
+        "label": "Maroudas PMG",
+        "url": "https://pmgwealth.com/how-much-i-spent-on-my-wedding/"
+      },
+      {
+        "label": "Housley",
+        "url": "https://armchaircurator.substack.com/p/wedding-debrief"
+      },
+      {
+        "label": "Helmstetter",
+        "url": "https://bethhelmstetter.substack.com/p/the-things-no-one-tells-you-about"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "text": "Hair and makeup is worth paying for; skipping an artist you loved was a regret.",
+    "problem": "Cut from the budget, then missed.",
+    "category": "regrets",
+    "sources": 2,
+    "featureId": 8,
+    "advice": false,
+    "links": [
+      {
+        "label": "Higgins",
+        "url": "https://whyb0ther.substack.com/p/45-planning-a-wedding-part-ii"
+      },
+      {
+        "label": "Helmstetter",
+        "url": "https://bethhelmstetter.substack.com/p/the-things-no-one-tells-you-about"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "text": "Spend on guest comfort (seating, food, drinks) before favours and decor; cheap metal chairs saved about $2,000 and were regretted.",
+    "problem": "Cheap choices guests feel all night.",
+    "category": "regrets",
+    "sources": 3,
+    "featureId": 8,
+    "advice": false,
+    "links": [
+      {
+        "label": "Ayers",
+        "url": "https://moneychangeseverything.substack.com/p/wedding-budget"
+      },
+      {
+        "label": "Craner",
+        "url": "https://www.andrewcraner.com/top-8-items-couples-regret-spending-their-wedding-budget-on/"
+      },
+      {
+        "label": "ALTARE",
+        "url": "https://altare.substack.com/p/the-best-weddings-are-not-the-most",
+        "note": "food as a priority is not where to economize"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "text": "Regret about underspending is more common than regret about overspending (shorter music, fewer drinks, later photography, scaled-back flowers), as long as the spend does not cause debt.",
+    "problem": "Cuts made in fear, regretted later.",
+    "category": "regrets",
+    "sources": 1,
+    "featureId": 8,
+    "advice": false,
+    "links": [
+      {
+        "label": "Helmstetter",
+        "url": "https://bethhelmstetter.substack.com/p/the-things-no-one-tells-you-about"
+      },
+      {
+        "label": "LendingTree split of regrets (commercial survey, summary only)",
+        "url": "https://www.lendingtree.com/debt-consolidation/newlywed-wedding-debt-survey/",
+        "summaryOnly": true
+      }
+    ],
+    "sourcesNote": "+1 summary only"
+  },
+  {
+    "id": 80,
+    "text": "Low-impact spend: favours, place cards, name cards, table numbers, post box, decor, vintage car, pricey invitations.",
+    "problem": "Money goes to things guests forget.",
+    "category": "regrets",
+    "sources": 3,
+    "featureId": 8,
+    "advice": false,
+    "links": [
+      {
+        "label": "Craner",
+        "url": "https://www.andrewcraner.com/top-8-items-couples-regret-spending-their-wedding-budget-on/"
+      },
+      {
+        "label": "Maroudas PMG",
+        "url": "https://pmgwealth.com/how-much-i-spent-on-my-wedding/"
+      },
+      {
+        "label": "Housley",
+        "url": "https://armchaircurator.substack.com/p/wedding-debrief"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "text": "Flowers cost far more than expected, so scale them down or reuse ceremony flowers as centerpieces, silk flowers, or wildflowers.",
+    "problem": "Florals are the classic surprise line.",
+    "category": "regrets",
+    "sources": 5,
+    "featureId": 8,
+    "advice": false,
+    "links": [
+      {
+        "label": "Maroudas PMG",
+        "url": "https://pmgwealth.com/how-much-i-spent-on-my-wedding/"
+      },
+      {
+        "label": "Higgins",
+        "url": "https://whyb0ther.substack.com/p/45-planning-a-wedding-part-ii"
+      },
+      {
+        "label": "Craner",
+        "url": "https://www.andrewcraner.com/top-8-items-couples-regret-spending-their-wedding-budget-on/"
+      },
+      {
+        "label": "Housley",
+        "url": "https://armchaircurator.substack.com/p/wedding-debrief"
+      },
+      {
+        "label": "Hayse",
+        "url": "https://themamamarketer.com/blog/updated-tips-for-an-affordable-wedding"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "text": "A full wedding cake is optional; couples went with pie, macarons, small desserts, a friend's bake, or no cake.",
+    "problem": "Costly cake barely eaten.",
+    "category": "low budget",
+    "sources": 6,
+    "featureId": 8,
+    "advice": false,
+    "links": [
+      {
+        "label": "Craner",
+        "url": "https://www.andrewcraner.com/top-8-items-couples-regret-spending-their-wedding-budget-on/"
+      },
+      {
+        "label": "Ayers",
+        "url": "https://moneychangeseverything.substack.com/p/wedding-budget"
+      },
+      {
+        "label": "Hayse",
+        "url": "https://themamamarketer.com/blog/updated-tips-for-an-affordable-wedding"
+      },
+      {
+        "label": "Williams via Fortune",
+        "url": "https://www.fortune.com/2023/12/03/salary-transparent-street-wedding-hannah-williams"
+      },
+      {
+        "label": "Frost",
+        "url": "https://platonicloveletter.substack.com/p/issue-39-wedding-planning-tips-from"
+      },
+      {
+        "label": "Housley",
+        "url": "https://armchaircurator.substack.com/p/wedding-debrief"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "text": "The dress is worn once, so do not let it take a big share (examples: $76 dress, second-hand designer at 64% off, mother's dress, a vintage find).",
+    "problem": "Dress spending out of proportion.",
+    "category": "low budget",
+    "sources": 5,
+    "featureId": 8,
+    "advice": false,
+    "links": [
+      {
+        "label": "Craner",
+        "url": "https://www.andrewcraner.com/top-8-items-couples-regret-spending-their-wedding-budget-on/"
+      },
+      {
+        "label": "Williams via Fortune",
+        "url": "https://www.fortune.com/2023/12/03/salary-transparent-street-wedding-hannah-williams"
+      },
+      {
+        "label": "Housley",
+        "url": "https://armchaircurator.substack.com/p/wedding-debrief"
+      },
+      {
+        "label": "Hayse",
+        "url": "https://themamamarketer.com/blog/updated-tips-for-an-affordable-wedding"
+      },
+      {
+        "label": "Higgins",
+        "url": "https://whyb0ther.substack.com/p/45-planning-a-wedding-part-ii"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "text": "Trying to please everyone is a top regret; money should go to what the two of you care about.",
+    "problem": "Spending to meet others' expectations.",
+    "category": "regrets",
+    "sources": 1,
+    "featureId": 1,
+    "advice": false,
+    "links": [
+      {
+        "label": "Hanson podcast",
+        "url": "https://podcasts.apple.com/us/podcast/better-budget-weddings/id1819803612"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "text": "Couples tend to remember people and moments more than small details like napkin colors (a planner's survey of 100 couples, not independently checked).",
+    "problem": "Money aimed at details nobody recalls.",
+    "category": "regrets",
+    "sources": 1,
+    "featureId": 1,
+    "advice": false,
+    "links": [
+      {
+        "label": "Hanson podcast",
+        "url": "https://podcasts.apple.com/us/podcast/better-budget-weddings/id1819803612"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "text": "A real 80-guest backyard wedding cost $4,847 in a planner's full breakdown.",
+    "problem": "People think a good wedding needs tens of thousands.",
+    "category": "low budget",
+    "sources": 1,
+    "featureId": 12,
+    "advice": false,
+    "links": [
+      {
+        "label": "Hanson podcast",
+        "url": "https://podcasts.apple.com/us/podcast/better-budget-weddings/id1819803612"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "text": "A roughly $11,000 wedding used a free public park ceremony, a $76 dress, a free playlist and a $240 macaron tower, with $4,400 on the open-bar buffet reception and $2,600 on the photographer.",
+    "problem": "Seeing which lines to keep and which to cut.",
+    "category": "low budget",
+    "sources": 1,
+    "featureId": 12,
+    "advice": false,
+    "links": [
+      {
+        "label": "Williams via Fortune",
+        "url": "https://www.fortune.com/2023/12/03/salary-transparent-street-wedding-hannah-williams"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "text": "A roughly $3,000 wedding used the mother's dress, a backyard or park venue, local restaurant catering, a short photo session, small desserts and bouquets only.",
+    "problem": "Proof a very small budget can work.",
+    "category": "low budget",
+    "sources": 1,
+    "featureId": 12,
+    "advice": false,
+    "links": [
+      {
+        "label": "Hayse",
+        "url": "https://themamamarketer.com/blog/updated-tips-for-an-affordable-wedding"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "text": "A playlist instead of a DJ saves money, and guests can add songs on RSVP cards (but see lesson 76 for the other view).",
+    "problem": "DJ cost on a tight budget.",
+    "category": "low budget",
+    "sources": 2,
+    "featureId": 8,
+    "advice": false,
+    "links": [
+      {
+        "label": "Hayse",
+        "url": "https://themamamarketer.com/blog/updated-tips-for-an-affordable-wedding"
+      },
+      {
+        "label": "Williams via Fortune",
+        "url": "https://www.fortune.com/2023/12/03/salary-transparent-street-wedding-hannah-williams"
+      }
+    ],
+    "sourcesNote": "disagrees with 76"
+  },
+  {
+    "id": 90,
+    "text": "A short photographer session plus guest-shared photos can replace all-day coverage on a tight budget (but see lesson 75).",
+    "problem": "Photography cost on a tight budget.",
+    "category": "low budget",
+    "sources": 1,
+    "featureId": 8,
+    "advice": false,
+    "links": [
+      {
+        "label": "Hayse",
+        "url": "https://themamamarketer.com/blog/updated-tips-for-an-affordable-wedding"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "text": "Ask your network for talent and discounts: a friend baked the cake, a friend played violin free, alumni and friend discounts, borrowed photo booth gear, a brother as DJ, a relative as celebrant.",
+    "problem": "Paying full price for things friends can do.",
+    "category": "low budget",
+    "sources": 2,
+    "featureId": 8,
+    "advice": false,
+    "links": [
+      {
+        "label": "Moorhouse",
+        "url": "https://jessicamoorhouse.com/how-much-my-wedding-cost/"
+      },
+      {
+        "label": "Housley",
+        "url": "https://armchaircurator.substack.com/p/wedding-debrief"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "text": "Public, state-owned, backyard or park venues carry lower fees (and a state-owned venue had enough restrooms to avoid renting a trailer).",
+    "problem": "Private venue fees of $10,000 or more.",
+    "category": "low budget",
+    "sources": 3,
+    "featureId": 12,
+    "advice": false,
+    "links": [
+      {
+        "label": "Higgins",
+        "url": "https://whyb0ther.substack.com/p/45-planning-a-wedding-part-ii"
+      },
+      {
+        "label": "Williams via Fortune",
+        "url": "https://www.fortune.com/2023/12/03/salary-transparent-street-wedding-hannah-williams"
+      },
+      {
+        "label": "Hayse",
+        "url": "https://themamamarketer.com/blog/updated-tips-for-an-affordable-wedding"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "text": "A courthouse or tiny wedding can cut the cost roughly in half, and eloping is fine.",
+    "problem": "Feeling a big wedding is required.",
+    "category": "low budget",
+    "sources": 3,
+    "featureId": 12,
+    "advice": false,
+    "links": [
+      {
+        "label": "Moorhouse",
+        "url": "https://jessicamoorhouse.com/how-much-my-wedding-cost/"
+      },
+      {
+        "label": "Ayers",
+        "url": "https://moneychangeseverything.substack.com/p/wedding-budget"
+      },
+      {
+        "label": "Maroudas PMG",
+        "url": "https://pmgwealth.com/how-much-i-spent-on-my-wedding/"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "text": "Cheaper dates, a smaller list, reused decor and skipped extras shrink a budget (a planner's 50-idea list).",
+    "problem": "Not knowing which levers exist.",
+    "category": "low budget",
+    "sources": 1,
+    "featureId": 8,
+    "advice": false,
+    "links": [
+      {
+        "label": "Hanson podcast",
+        "url": "https://podcasts.apple.com/us/podcast/better-budget-weddings/id1819803612"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "text": "DIY saves money only if you count your time and skill: one planner compares $150 DIY with $800 of DIY that looked cheap, and a $700+ mirror cost a few hundred but took six months.",
+    "problem": "Time cost ignored, cheap look.",
+    "category": "low budget",
+    "sources": 2,
+    "featureId": 8,
+    "advice": false,
+    "links": [
+      {
+        "label": "Hanson podcast",
+        "url": "https://podcasts.apple.com/us/podcast/better-budget-weddings/id1819803612"
+      },
+      {
+        "label": "Higgins",
+        "url": "https://whyb0ther.substack.com/p/45-planning-a-wedding-part-ii"
+      }
+    ]
+  }
+]

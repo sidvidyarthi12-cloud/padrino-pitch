@@ -1,0 +1,109 @@
+{
+  "checked": "2026-10-24",
+  "facts": [
+    {
+      "id": "cashback-flat-2",
+      "text": "Two popular cards with no annual fee pay a flat 2% on purchases. Citi Double Cash pays 1% when you buy and 1% as you pay your bill. Wells Fargo Active Cash pays 2% on net purchases.",
+      "source": "https://www.citi.com/credit-cards/citi-double-cash-credit-card",
+      "moreSources": [
+        "https://creditcards.wellsfargo.com/active-cash-credit-card/"
+      ]
+    },
+    {
+      "id": "cashback-flat-1-5",
+      "text": "Capital One Quicksilver pays a flat 1.5% on every purchase. Chase Freedom Unlimited pays 1.5% on most purchases, with 3% on dining and drugstores and 5% on travel booked through Chase Travel. Chase lists no annual fee. The Capital One page we opened does not state the annual fee.",
+      "source": "https://www.capitalone.com/credit-cards/quicksilver/",
+      "moreSources": [
+        "https://creditcards.chase.com/cash-back-credit-cards/freedom/unlimited"
+      ]
+    },
+    {
+      "id": "cashback-rotating",
+      "text": "Discover it has no annual fee. It pays 5% in categories that change each quarter once you activate them, up to a quarterly maximum, and 1% on everything else. Discover also matches all the cash back you earn at the end of your first year.",
+      "source": "https://www.discover.com/credit-cards/cash-back/it-card.html"
+    },
+    {
+      "id": "cashback-range",
+      "text": "For planning, assume 1% to 2% back on vendor payments. Bonus rates like 3% or 5% apply to set categories, and we cannot tell how a wedding vendor's charge will be sorted. Check your own card's terms.",
+      "source": "https://www.discover.com/credit-cards/cash-back/it-card.html",
+      "moreSources": [
+        "https://creditcards.chase.com/cash-back-credit-cards/freedom/unlimited"
+      ]
+    },
+    {
+      "id": "pay-in-full",
+      "text": "Paying your full balance by the due date avoids interest on new purchases. The CFPB calls that time before the due date a grace period. Card companies are not required to offer one, though most cards do. If you only pay in full some months, you can lose the grace period for that month and the next.",
+      "source": "https://www.consumerfinance.gov/ask-cfpb/what-is-a-grace-period-for-a-credit-card-en-47/"
+    },
+    {
+      "id": "interest-beats-rewards",
+      "text": "Interest costs far more than rewards pay. On its page Wells Fargo lists a variable rate of 18.74%, 24.74% or 28.74% after the 0% intro period, next to 2% cash back. Rewards only help if you pay the bill in full.",
+      "source": "https://creditcards.wellsfargo.com/active-cash-credit-card/"
+    },
+    {
+      "id": "visa-surcharge-cap",
+      "text": "Visa's U.S. rules let a merchant add a surcharge to credit cards only, never to debit or prepaid cards. The surcharge can be no more than the merchant's cost to accept that card or 3%, whichever is lower. The merchant must tell its card processor 30 days before it starts, post notices at the entrance and checkout, and show the surcharge on every receipt. This is Visa's February 2024 version of its Q and A.",
+      "source": "https://usa.visa.com/content/dam/VCOM/global/support-legal/documents/merchant-surcharging-qa-for-web.pdf"
+    },
+    {
+      "id": "surcharge-vs-rewards-math",
+      "text": "A 3% card fee can cancel a 2% reward. On a $5,000 vendor bill, 2% back is $100 and a 3% fee is $150, so you lose $50. At 1.5% back you lose $75.",
+      "source": "https://usa.visa.com/content/dam/VCOM/global/support-legal/documents/merchant-surcharging-qa-for-web.pdf",
+      "moreSources": [
+        "https://www.citi.com/credit-cards/citi-double-cash-credit-card"
+      ]
+    },
+    {
+      "id": "cash-discount-vs-fee",
+      "text": "A cash discount is not the same as a card fee. Visa says a merchant who offers a discount must show either the card price alone or the card and cash prices side by side. A separate fee added only for card payments may be treated as a surcharge under Visa's rules.",
+      "source": "https://usa.visa.com/content/dam/VCOM/global/support-legal/documents/merchant-surcharging-qa-for-web.pdf"
+    },
+    {
+      "id": "texas-credit-surcharge-law",
+      "text": "Texas law says a seller may not add a surcharge on a buyer who pays with a credit card instead of cash or a check. This is Texas Business and Commerce Code section 604A.0021, which moved from the Finance Code in 2017. It still appears in the official Texas statutes, current through the 2025 sessions. It has not been repealed.",
+      "source": "https://statutes.capitol.texas.gov/Docs/BC/htm/BC.604A.htm"
+    },
+    {
+      "id": "texas-debit-surcharge-law",
+      "text": "Texas law also bars a merchant from adding a surcharge when you pay with a debit card or stored value card (section 604A.002). Visa's rules say the same for debit and prepaid cards.",
+      "source": "https://statutes.capitol.texas.gov/Docs/BC/htm/BC.604A.htm",
+      "moreSources": [
+        "https://usa.visa.com/content/dam/VCOM/global/support-legal/documents/merchant-surcharging-qa-for-web.pdf"
+      ]
+    },
+    {
+      "id": "texas-surcharge-penalty",
+      "text": "In Texas a person who knowingly breaks the surcharge ban can owe the state a civil penalty of up to $500 per violation. Only the Attorney General or the county prosecutor can sue. The law does not let an individual sue. A business gets a 30 day notice to fix the problem first.",
+      "source": "https://statutes.capitol.texas.gov/Docs/BC/htm/BC.604A.htm",
+      "moreSources": [
+        "https://sll.texas.gov/faqs/credit-card-surcharge/"
+      ]
+    },
+    {
+      "id": "texas-surcharge-status",
+      "text": "Whether Texas can enforce the credit card ban is unclear. A federal court ruled in 2018 (Rowell v. Paxton) that the law is unconstitutional. The Attorney General said in 2019 that the ruling does not make the law unenforceable for everyone else. The Texas State Law Library, updated August 2025, says it is unclear if the ban can be enforced. So a Texas vendor might still add a card fee. Ask before you sign.",
+      "source": "https://sll.texas.gov/faqs/credit-card-surcharge/"
+    },
+    {
+      "id": "texas-cash-discount",
+      "text": "In Texas, a lower price for paying with cash is not a surcharge. The state's definition leaves out a discounted price for cash buyers. A vendor can post a cash price without breaking the ban.",
+      "source": "https://statutes.capitol.texas.gov/Docs/BC/htm/BC.604A.htm",
+      "moreSources": [
+        "https://sll.texas.gov/faqs/credit-card-surcharge/"
+      ]
+    },
+    {
+      "id": "settlement-pending",
+      "text": "In June 2026 a federal court gave preliminary approval to a Visa settlement that would give merchants more ways to add credit card surcharges, even if they do not surcharge other card networks. It still needs final court approval. Do not count on those changes yet.",
+      "source": "https://corporate.visa.com/en/sites/visa-perspectives/company-news/visa-statement-mdl-settlement.html"
+    },
+    {
+      "id": "vendors-may-add-fee",
+      "text": "Some vendors add a fee for card payments, or call it a convenience or processing fee. Before you pay a deposit, ask for the total price if you pay by card, by check and in cash, and ask what the fee covers.",
+      "source": "https://usa.visa.com/content/dam/VCOM/global/support-legal/documents/merchant-surcharging-qa-for-web.pdf",
+      "moreSources": [
+        "https://sll.texas.gov/faqs/credit-card-surcharge/"
+      ]
+    }
+  ]
+}
